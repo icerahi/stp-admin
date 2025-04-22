@@ -705,12 +705,12 @@
         <h2><i class="fas fa-compass"></i> <span>STP Admin</span></h2>
       </div>
       <div class="sidebar-menu">
-        <a href="#dashboard" class="menu-item active" data-target="dashboard">
+        <a href="/" class="menu-item active" data-target="dashboard">
           <i class="fas fa-tachometer-alt"></i>
           <span class="menu-text">Dashboard</span>
         </a>
         <a
-          href="#user-management"
+          href="/user-management.html"
           class="menu-item"
           data-target="user-management"
         >
@@ -718,7 +718,7 @@
           <span class="menu-text">User Management</span>
         </a>
         <a
-          href="#feedback-review"
+          href="/feedback-review.html"
           class="menu-item"
           data-target="feedback-review"
         >
@@ -726,7 +726,7 @@
           <span class="menu-text">Feedback Review</span>
         </a>
         <a
-          href="#analytics-logs"
+          href="/analytics-logs.html"
           class="menu-item"
           data-target="analytics-logs"
         >
@@ -734,14 +734,14 @@
           <span class="menu-text">Analytics & Logs</span>
         </a>
         <a
-          href="#trip-management"
+          href="trip-management.html"
           class="menu-item"
           data-target="trip-management"
         >
           <i class="fas fa-suitcase"></i>
           <span class="menu-text">Trip Management</span>
         </a>
-        <a href="#settings" class="menu-item" data-target="settings">
+        <a href="settings.html" class="menu-item" data-target="settings">
           <i class="fas fa-cog"></i>
           <span class="menu-text">Settings</span>
         </a>
@@ -1669,41 +1669,5 @@ Paris, France; Rome, Italy; Barcelona, Spain</textarea
         </div>
       </div>
     </div>
-
-    <!-- JavaScript to handle page switching -->
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        // Get all menu items and main content areas
-        const menuItems = document.querySelectorAll(".menu-item[data-target]");
-        const mainContents = document.querySelectorAll(".main-content");
-
-        // Add click event listeners to menu items
-        menuItems.forEach((item) => {
-          item.addEventListener("click", function (e) {
-            e.preventDefault();
-
-            // Remove active class from all menu items
-            menuItems.forEach((menuItem) => {
-              menuItem.classList.remove("active");
-            });
-
-            // Add active class to clicked menu item
-            this.classList.add("active");
-
-            // Hide all main content areas
-            mainContents.forEach((content) => {
-              content.style.display = "none";
-            });
-
-            // Show the corresponding main content area
-            const targetId = this.getAttribute("data-target");
-            document.getElementById(targetId).style.display = "block";
-          });
-        });
-
-        // Show dashboard by default
-        document.getElementById("dashboard").style.display = "block";
-      });
-    </script>
   </body>
 </html>
