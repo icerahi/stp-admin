@@ -1,3 +1,6 @@
+remove all lithuanian word and organize and format is like documentation. must keep all original english word
+
+
 U sability evaluations:   Cognitive walkthrough 
 Panaudojamumo vertinimai:  pa ž intin ė peržvalga
 15 lecture
