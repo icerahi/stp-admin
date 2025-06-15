@@ -1,0 +1,760 @@
+Main GUI  components selection and
+arrangement
+Graphical User Interface (GUI)
+( 2 part)
+Grafinis naudotojo interfeisas
+11 lecture
+Žmogaus ir kompiuterio sąsajos  projektavimas
+
+2 GUI  rekomendations
+GUI  rekomendations
+• Window - Langai
+• Buttons  - Mygtukai
+• Text Boxes - Teksto įvedimo laukai
+• Radio / Žymės mygtukai
+• Psychological principles and
+interface design
+Psichologiniai principai ir interfeiso projektavimas
+
+Description (1)
+ A  control ,  usually rectangular in
+ Stačiakampio formos 
+shape ,  in which
+valdymo 
+ Text may be  entered or edited komponentas, 
+kuriame:  Text may be  displayed for
+read - only purposes .
+ Tekstas gali būti 
+įvedamas ar 
+ Usually have  a  caption or label
+redaguojamas
+describing the kind of
+ Tekstas gali būti  information contained within it
+rodomas tik skaitymo 
+tikslais.
+ Paprastai turi antraštę 
+ar etiketę 
+apibūdinančią joje 
+esančią informaciją
+
+Description ( 2)
+ An outline field border
+ Lauko kontūro rėmelį:
+ Is included for
+◦ T uri įvedimo/redagavimo 
+enterable / editable text
+teksto dėžutę
+boxes
+◦ Neturi  skaitymo tikslams 
+ Is not included for read - only skirtos dėžutės 
+text boxes
+ Two types exist
+ Egzistuoja dviejų tipų
+◦ Vienos eilutės ( Single - line)  Single - line
+◦ Kelių eilučių ( Multiple - line)
+ Multiple - line
+ When first displayed ,  the box
+ Pateikiant pirmą kartą, 
+may be blank  or contain an
+langas gali būti tuščias 
+initial value
+arba jame  gali būti 
+pradinė reikšmė
+
+Purpose - Paskirtis
+ Atvaizduoti,   To permit the 
+įvesti ar 
+display, entering, 
+redaguoti 
+or editing of 
+tekstinę 
+textual information informaciją
+ Atvaizduoti tik  To display read -
+skatymo
+only information
+tikslams skirta
+(read - only) 
+tekstinę 
+informaciją
+
+Advantages - Privalumai
+ Text boxes are very flexible, 
+ Patogūs naudoti  accepting almost any keyed 
+entry
+ Gali būti logiškai 
+išdėstyti darbinėje srityje   They are familiar entities and 
+do not consume much 
+ Galima kontroliuoti dydį 
+screen space
+(kuo didesnė dėžutė, 
+tuo daugiau įvesto 
+teksto bus matoma) 
+ N e naudoja daug vietos 
+ekrane
+ Suteikia 3D išvaizdą 
+
+Disadvantages - Trūkumai
+ Requires use of 
+ Reikia naudoti 
+typewriter keyboard
+klaviatūrą tekstui 
+ Requires user to 
+įvesti
+remember what must 
+ Nenaudojant 
+be keyed
+etikečių 
+vartotojui reikia 
+prisiminti, kas turi 
+būti įvedama
+
+Proper usage - Tinkamas naudoti
+ Labiausiai tinkamas   Most useful for data 
+duomenims, kurie  that is
+yra
+ Unlimited in scope
+ Neribotos apimties
+ Difficult to categorize
+ Sunkiai 
+ Of a variety of 
+kategorizuojami
+different lengths
+ Skirtingų ilgių įvairovė
+ When using a 
+selection list is not 
+possible
+ Kai nėra įmanoma 
+naudoti 
+išskleidžiamą sąrašą
+
+Vienos eilutės ( Single - line
+Text Boxes )  teksto dėžutės
+ Aprašymas:  Description :
+ Valdymo komponentas, kuris   A  control consisting of no more
+susideda ne daugiau kaip iš  than one line  of text .
+vienos teksto eilutės.
+ Purpose :
+ Paskirtis:
+ To  make textual entries when
+ Sukurti tekstinius įrašus, kai  the information can be 
+informacija gali būti pateikta  contained within one line  of the
+vienoje eilutėje. screen .
+ Dažniausiai naudojama:  Typical uses :
+ Įvedant kintamus duomenis į   Typing variable data  on a  form :
+formą:
+ Typing the name  of a  file to 
+save.  Įvedant išsaugoti failo vardą  
+ Personal information  Asmeninė informacija
+ Typing a  command .  Įvedant komandą.
+
+Kelių eilučių ( Multiple - line Text
+Boxes )  teksto dėžutės
+ Aprašymas:  Description :
+ Valdymo komponentas,   A  control consisting of a 
+kuris susideda iš kelių  multiline rectangular box for
+eilučių stačiakampių  multiple lines of text .
+dėžučių, kelių eilučių 
+ Purpose :
+tekstui įvesti.
+ To  type ,  edit ,  and read
+ Paskirtis:
+passages of text .
+ Įvesti, redaguoti ar 
+ Typical uses : atvaizduoti tekstą.
+ Creating or reading an  Dažniausiai naudojama:
+electronic mail message .
+ Kurti arba skaityti 
+ Displaying and editing text elektroninio pašto 
+files . pranešimams.
+ Atvaizduoti ir redaguoti 
+tekstinius failus.
+
+Long Text Boxes
+Ilgos tekstinės dėžutės
+ Segment long text  Segmentuoti ilgas 
+teksto dėžutes  boxes through
+ Naudojant  slešą (/), 
+ Incorporation of slashes
+brukšnelį ( - ), tarpus ar 
+( / ),  dashes ( - ),  spaces , 
+kt. skirtukus.
+or other common
+ Jei fiksuoto ilgio 
+delimiters .
+duomenys, 
+ If fixed - length data,  segmentuojam į 
+logines dėžutes  segment into logical
+naudodami „auto -
+boxes using auto - skip to 
+skip “  perėjimui per 
+move between .
+jas.
+
+Size - Dydis
+ Size to  indicate the
+ Dydį apytiksliai nurodo 
+approximate length of the
+lauko ilgis.
+field .
+ Fiksuoto ilgio teksto dėžutės 
+ Text boxes for fixed - length data  turi būti pakankamo dydžio, 
+kad  jose tilptų visas įrašas. must be  large enough to 
+contain the entire entry .
+ Jei įrašas  gali būti didesnis 
+nei  numatyta įvedimo sritis, 
+ Where entries may be  larger
+turi būti  numatyta 
+than the entry field ,  scrolling
+„ scrolling “ galimybė, kuri 
+must be  provided to  permit
+leistų peržiūrėti  visą 
+keying into ,  or viewing ,  the
+įvedamą tekstą.
+entire field .
+ Kelių eilučių teksto dėžutėje 
+ Employ word wrapping for turi būti numatyta 
+continuous text in multiple - line  automatinė teksto talpinimo 
+galimybė  – žodžių kėlimas  text boxes .
+„ WordWrap “
+
+Labels of Text Boxes ( Structure )
+Teksto dėžučių etiketės 
+ Provide a  descriptive
+ Pateikite aprašomąją 
+caption to  identify the
+antrašte, kuri leistų 
+kind of information to 
+nustatyti norimos įvesti 
+be  typed ,  or
+informacijos pobūdį. 
+contained within ,  the
+text box .
+ Atvaizduokite antraštę 
+normalaus 
+ Display the caption in intensyvumo arba 
+vidutinio šviesumo  normal intensity or in a 
+spalva (mažiau  color of moderate
+matomai negu 
+brightness ( lighter or
+duomenys) 
+less visible than the
+data)
+
+Formating Labels of Text Boxes (1)
+Teksto dėžutės antraštės formatavimas ( 1)
+ Vienos eilutės ( Single -
+ Single fields:
+line)
+ Position the field caption 
+ Antra štės lauko 
+to the left of the text box. vieta  - iš kairės 
+pusės nuo teksto 
+ Place a colon (:) 
+dėžutės.
+immediately following the 
+ Dvitaškio (:) ženklo 
+caption.
+vieta  - iš karto po 
+antrašte.
+ Separate the colon from 
+ Atstumas nuo  the text box by one 
+dvitaškio iki teksto 
+space.
+dėžutės  – vieno 
+ženklo tarpas. 
+
+Formating Labels of Text Boxes (2)
+Teksto  dėžutės antraštės formatavimas  ( 2)
+ Vienos eilutės 
+ Single fields:
+( Single - line)
+ Alternately, the   Alternatyva ,  antraštė 
+gali būti pateikiama caption may be 
+virš tekstinio lauk o .
+placed above the 
+ Dvitaškio (:) ženklo 
+text box.
+vieta  - iš karto po 
+antrašte.
+ Place a colon (:) 
+ Padėtis  - virš viršutini o 
+immediately following 
+teksto dėžutės kairi ojo
+the caption.
+kamp o ,  lyginant su 
+dėžutės kairiuoju 
+ Position above the 
+kraštu.
+upper - left corner of 
+the box,  allign with the 
+left edge of the box .
+
+Formating Labels of Text Boxes (3)
+Teksto  dėžutės antraštės formatavimas  ( 3 )
+ Multiple occurrence  Kelių  reik šmių
+fields :
+laukai:
+ For entry / modification
+ antraštės vieta  -
+text boxes ,  position the
+virš viršutinės
+caption left - justified one
+teksto dėžutės
+line  above the column
+kairi ojo kamp o , 
+of entry fields .
+lyginant su 
+dėžutės kairiuoju 
+kraštu.
+
+C aption s
+Pavadinimai
+
+
+
+Formating Labels of Text Boxes (4)
+Teksto  dėžutės antraštės formatavimas  ( 4 )
+ Tik skaitymo   For display/read -
+tikslams skirtos 
+only boxes:
+dėžutės
+ if the data field is 
+ Jei duomenų 
+long and fixed -
+laukas fiksuoto 
+length, or the  ilgio arba 
+vaizduojami  displayed data is 
+duomenys yra to  about the same 
+paties ilgio, 
+length, center the 
+antraštė yra 
+caption above the 
+centruojama virš 
+displayed text box 
+tektinės dėžutės.
+data.
+
+Formating Labels of Text Boxes (5)
+Teksto  dėžutės antraštės formatavimas  ( 5 )
+ Tik skaitymo tikslams 
+ For display/read - only 
+skirtos dėžutės
+boxes:
+ Jei vaizduojamus 
+ If the data displayed is 
+duomenis sudaro 
+alphanumeric, short, or 
+raidiniai ir 
+quite variable in length, 
+skaitmeniniai simboliai 
+left - justify the caption 
+ir yra trumpi arba 
+above the displayed text 
+mažo ilgio skirtumo, 
+box data.
+antraštė pateikiama 
+virš  teksto dėžutės, 
+lyginant pagal teksto 
+dėžutėje kairį kraštą
+
+Formating Labels of Text Boxes (6)
+Teksto  dėžutės antraštės formatavimas  ( 6 )
+ Tik skaitymo tikslams   For display/read -
+skirtos dėžutės only boxes:
+ Jei vaizduojami 
+ If the data field is 
+duomenys yra 
+numeric and 
+skaitmenys ir 
+variable in length, 
+kintamo ilgio, 
+right - justify the 
+antraštė pateikiama 
+caption above the 
+virš  teksto dėžutės, 
+displayed text box 
+lyginant pagal tekto 
+data.
+dėžutėje dešinį 
+kraštą
+
+Other Recom m endations
+Kitos rekomendacijos
+ Šriftai:  Fonts :
+ Nor ėdami  To  support
+naudoti multiple fonts , 
+ke lis šriftus,  use a  rich - text
+naudokite  box .
+“ rich - text
+box ” .
+
+23 Turinys
+Grafini ų interfeisų projektavimo 
+rekomendacijos
+• Langai
+• Mygtukai
+• Teksto įvedimo laukai
+• Radio buttons / Žymės mygtukai
+• Psichologiniai principai ir interfeiso 
+projektavimas
+
+Radio mygtukai ( Radio
+24
+buttons )
+Min  – ?
+Max recommended 
+( rekomenduoja )  – ?
+
+Radio mygtukai ( Radio
+25
+buttons )
+Min  – 2
+Max  recommended 
+( rekomenduoja )  – 8
+
+26
+
+27
+
+28
+
+29
+
+30
+ If we have 15 values  - the priority for radio buttons, not the 
+list (in the survey)
+ Jei turime 15  reikšmių  – prioritetas  radio mygtukams, o ne 
+sąrašui (atliekant apklausą)
+
+Žymės mygtukai ( Check
+31
+boxes )
+Min  – ?
+Max recommended 
+( rekomenduoja )  – ?
+
+Žymės mygtukai ( Check
+32
+boxes )
+Min  – 1
+Max recommended ( rekomenduoja )  – 8
+What better use radio or bookmark 
+buttons? 
+Do  you agree with the license?
+Ką geriau naudoti  radio ar žymės 
+mygtukus?
+Ar sutinkate su licencij ą? 
+
+Žymės mygtukai ( Check
+33
+boxes )
+
+34 Žymės mygtukai ( Check
+boxes )
+
+Žymės mygtukai ( Check
+35
+boxes )
+
+Žymės mygtukai ( Check
+36
+boxes )
+
+L ist box
+37
+Išsiskleidžiantis  sąrašas
+
+38 Turinys
+Grafini ų interfeisų projektavimo 
+rekomendacijos
+• Langai
+• Mygtukai
+• Teksto įvedimo laukai
+• Radio / Žymės mygtukai
+• Psychological principles and
+interface design
+Psichologiniai principai ir interfeiso 
+projektavimas
+
+Psychological principles 39
+Psichologiniai principai
+ The  principles of memory and 
+attention
+Atminties  ir dėmesio gairės 
+ Error message guidelines
+Klaidų  pranešimų gairės 
+ Information design
+informacijos projektavimo principai
+
+The principles of memory and attention
+40
+Atminties  ir dėmesio principai 
+ Short - term (working) 
+ Trumpalaikės  (darbinės) 
+memory  guidelines
+atminties gairės 
+- George  Miller's Law (1956): 
+– George  Miller dėsnis (1956): 
+A person is able to 
+žmogus vienu metu sugeba 
+remember at a time 
+atsiminti apie  7 ± 2 mažas 
+about 7 + 2 small portions 
+informacijos porcijas 
+of  information
+– Cowan (2002):  4 ± 1 
+- Cowan  (2002): 4  ± 1
+ Porcijuoti dialogai 
+ Ported Dialogs
+
+The principles of memory and attention
+41
+Atminties  ir dėmesio principai 
+ Laiko  limitas:   Time limit :
+- The  working  – darbinė  atmintis 
+memory is short - yra  trumpalaikė , 
+lived, so important 
+todėl svarbūs 
+messages should 
+pranešimai neturi 
+not disappear 
+dingti po kelių 
+after a few 
+sekundžių 
+seconds
+
+The principles of memory and attention
+42 Atminties  ir dėmesio principai 
+ Atpažinimas 
+– meniu  parodo visus  pasirinkimus
+• sarašas padalintas į porcijas 
+• klavišų  kombinacijos 
+– pasirinkimo  sarašai sufleruoja 
+sunkiai prisimenamus pavadinimus 
+• pvz . oro uostų 
+ Recognition
+- The  menu shows all 
+selections
+•  The list is divided into 
+portions
+• key  combinations
+- Selection  lists spell hard -
+to - remember  names
+•  for example  airports
+
+The principles of memory and attention
+Atminties  ir dėmesio principai 
+43
+ Spalvos 
+– naudoti  iki 5 spalvų 
+– Tinkamai  naudoti centrinio ir 
+periferinio matymo spalvas 
+– grupavimui  naudojant foną naudoti 
+minimalius spalvos skirtumus 
+– nenaudoti  kontrastinių spalvų 
+– Tinkamai  naudoti spalvų asociacijas 
+ Colors
+- use up to 5 colors
+- Properly use the colors of 
+the central and peripheral 
+vision
+- Minimal color differences 
+for background grouping
+- Do not use contrasting 
+colors
+- Proper color associations
+
+The principles of memory and  attention
+Atminties  ir dėmesio principai  44
+ Error prevention  guidelines
+ Klaidų  prevencijos gairės 
+- The conceptual model of 
+– sistemos  koncepcinis modelis  the system must be based 
+turi būti grindžiamas esamomis  on existing user knowledge 
+naudotojo žiniomis 
+- Simplify  the task structure to 
+– supaprastinti  užduočių  reduce cognitive  process 
+struktūrą, kad būtų sumažintas 
+- Available  actions must be 
+pažintinis apkrovimas 
+visible 
+– prieinami  veiksmai turi būti 
+- an  appropriate 
+matomi 
+representation of the 
+intentions and actions,  – tinkamas  ketinimų ir 
+actions and their results,  pateikiamų veiksmų, veiksmų ir 
+system status and needs 
+jų rezultatų, sistemos būsenos ir 
+poreikių atvaizdis  - use  limitations when 
+triggering appropriate 
+– išnaudoti  ribojimus 
+actions
+sufleruojant tinkamus veiksmus 
+- Designed  in light of 
+– projektuoti , atsižvelgiant į 
+potential  mistakes
+galimas klaidas 
+
+Error message guidelines
+Klaidų  pranešimų gairės  45
+ Understandable text without   Suprantamas  tekstas, be 
+special jargon  specializuoto žargono 
+ Avoid  threatening expressions   Vengti  grėsmingų išsireiškimų 
+– fatal error ,  kill job ,  catastrophic - fatal  error, kill job, catastrophic 
+error error 
+ Nenaudoti  dvigubo neigimo   Do  not use double denial 
+ Vengti  abstrakčių frazių   Avoid  abstract phrases 
+– “ netinkama įvestis” vietoje  - "inappropriate input" instead of 
+“įveskite vardą” 
+"enter name" 
+ NERAŠYTI  TEKSTO 
+ DO  NOT TAKE THE TEXT OF 
+DIDŽIOSIOMIS RAIDĖMIS 
+CAPITAL LETTERS
+ Atsargiai  naudoti dėmesio 
+ Use  caution when targeting 
+pritraukimo metodus 
+methods
+– mirgėjimas , ryškios spalvos 
+ - flicker, bright colors 
+ Nenaudoti  daugiau 4 šriftų 
+ Do  not use more than 4 fonts per 
+viename ekrane 
+screen 
+ Saikingai  naudoti garsus ir 
+ Moderate  use of sounds and 
+va i zdo įrašus 
+videos 
+ Tinkamai  naudoti spalvas 
+ Properly  use colors
+
+Information design
+46
+Informacijos  projektavimas 
+ The purpose is to   Tikslas  –
+facilitate the  palengvinti 
+perception of  didelių 
+the meaning of  informacijos 
+large amounts of  kiekių prasmės 
+information suvokimą 
+1. Creating  an  1. Kuriant suprantama 
+understandable  struktūrą 
+structure 
+2. Suteikiant naudotojui 
+2. Providing  sąveikos būdus 
+interaction with the 
+user
+– problemo s
+- The solution lies in the 
+sprendimas slypi 
+proper representation 
+tinkamame 
+of the information
+informacijos 
+pavaizdavime 
+
+Information design
+47 Informacijos  projektavimas 
+Harry Beck’o Londono metro planas  – klasikinis pavyzdys, 
+dabartinė  versija 
+
+Information design
+48
+Informacijos  projektavimas 
+ The common   Galioja  bendri 
+design principles 
+projektavimo 
+apply :
+principai: 
+- Psychological 
+– P sichologi niai
+principles 
+principai 
+- Avoid  to have 
+– Vengti 
+too  much 
+užgriozdinimo  information 
+- Avoid to have  – Vengti  perteklinių 
+too much  animacijų 
+animations 
+– Vengti 
+- Avoid  contrasting 
+kontrastingų spalvų 
+colors
+
+Interaktyvusis  vizualizavimas 
+49
+ Card (2012): Visualization 
+increases cognitive abilities: 
+ Card (2012): vizualizacija 
+- Provides memory and  didina pažinimo gebėjimus: 
+processing  resources – suteikia  atsiminimo ir apdorojimo 
+resursus 
+- shorter  search of  information 
+– sutrumpina  informacijos paiešką 
+- Helps to find templates in the 
+– padeda  rasti šablonus 
+data  duomenyse 
+– padeda  interpretuoti duomenis 
+- Helps to interpret data 
+– užkoduoja  duomenis 
+- encodes the data in an  interaktyviame pavidale 
+interactive form 
+ Ben Shneiderman
+ Ben  Shneiderman – Pradžioje  parodyti visų duomenų 
+apžvalga 
+- An overview of all data is 
+– toliau  leisti priartinti ir filtruoti 
+displayed at the beginning 
+– tada  rodyti detalųjį vaizdą, kai 
+bus pareikalautas  - Then to  allow zooming and 
+filtering 
+- then display a detailed 
+information  when prompted
+
+Akcijų  biržos  vizualizacijos ( 1998 ) 50
+ SmartMoney.com 
+ The colors in the map indicate 
+the rise and fall of stock prices 
+ The  color brightness indicates 
+the magnitude of the  change
+ The  size of the block 
+corresponds to the size of the 
+company 
+ The  name of the company 
+appears when you hover over 
+the  mouse, click  – information 
+details
+ SmartMoney.com 
+ Žemėlapyje  spalvos nurodo akcijų kainų kilimą ir kritimą 
+ Spalvos  ryškumas nurodo kaitos dydį 
+ Bloko  dydis atitinka įmonės dydį 
+ Tempiant  pelės žymeklį pasirodo įmonės pavadinimas, spragtelinti  – detali 
+informacija 
+
+Vizualus  tezaurus  51
+http ://www.visualthesaurus.com /
+
+Find graphical user interface errors
+52
+Raskite grafinės vartotojo sąsajos klaidas
+
+Find graphical user interface errors
+Raskite grafinės vartotojo sąsajos klaidas 53
+
+Find graphical user interface errors
+54 Raskite grafinės vartotojo sąsajos klaidas
+
+Find graphical user interface errors
+Raskite grafinės vartotojo sąsajos klaidas 55
+
+Find graphical user interface errors
+Raskite  grafinės vartotojo sąsajos klaidas 56
+
+57 Sources
+ Wilbert Galitz .  The Essential Guide to User 
+Interface Design . Wiley, 2007.
+ David  Benyon .  Designing Interactive Systems: 
+A  comprehesive guide to HCI and 
+interaction design . Wesley, 2014. 

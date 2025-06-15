@@ -1,0 +1,745 @@
+Who benefits the product?  -
+Kas naudos?
+What activities? 
+Kokiose veiklose?
+Reikalavimai Where will the interaction?
+Kur vyks sąveika? 
+What are the technological 
+possibilities and limitations?
+Kokiomis technologijomis?
+Requirements perception users studies
+Reikalavimų suvokimas: naudotojų tyrimai
+6 lecture
+Žmogaus ir kompiuterio 
+sąsajos projektavimas
+
+2 Turinys
+Aims  - Paskaitos tikslai
+• Requirements perception 
+Reikalavimai
+• Requirements generation methods
+Reikalavimų generavimo būdai
+
+Requirements perception 
+Reikalavimų suvokimas 3
+ Includes collection and generation of requirements
+Apima reikalavimų rinkimą ir generavimą
+ A  template is  used In  larger projects, 
+Didesniuose projektuose naudotojamas šablonas
+ requirements are  numbered  - reikalavimai yra numeruojami
+ one  sentence  - vienu sakiniu išdėstytas reikalavimas
+ Source  - šaltinis
+ Foundation - pagrindas
+ More could  be - Dar gali būti
+ success criterion and  measure  - sėkmės kriterijus ir matas
+ importance level  - svarbos laispnis
+ Dependence or conflict with other requirements  –
+Priklausomybė  ar konfliktas su kitais reikalavimais
+ the history of changes  - keitimų istorija
+
+Types of requirements
+4
+Reikalavimų tipai
+ Functional (what system should work)
+Funkciniai (k ą sistema turi veikti)
+ product functions (use the formula in a spreadsheet)
+produkto funkcijos (skaičiuoklėje naudoti formulę)
+ Non - functional (how it should  work)
+Nefunkciniai (kaip ji turi veikti)
+ Product properties  - produkto savybės 
+ how to use the formulas to specify the addresses: in one 
+worksheet or in different  ones
+kaip naudojant formules turi būti nurodomi adresai: viename darbo 
+lape ar skirtinguose
+ important for product acceptability
+svarbios produkto priimtinumui
+ Must operate on different platforms of computers
+Turi veikti kelių platformų kompiuteriuose
+ Type, size and color of input and output devices
+Įvedimo ir išvedimo įrenginių rūšis, dydis ir spalva
+ liquid crystal display, battery power source
+S kystųjų  kristalų ekranas, baterijų energijos šaltinis
+
+Requirements prioritization
+5
+Reikalavimų prioritizavimas
+ Privalomi angl.  Must have
+ Without them, the product will be  useless
+be jų gaminys bus nenaudingas
+ Reikalingi angl.  Should have
+ Without them, the product will be useful, but if the resources 
+allow, then these features will substantially improve it
+be jų gaminys bus naudingas, bet jei resursai leistų, tai šios funkcijos iš esmės jį 
+pagerintų
+angl.  Could have  Galimi
+ less important requirements
+mažesnės svarbos reikalavimai
+ Pageidaujami angl.  Want to have
+ can wait until later updates
+gali palaukti iki vėlesnių atnaujinimų
+
+Projektavimas dalyvaujant 
+6
+Participative design naudotojams
+ Requirements are perceived by communicating with the 
+interested parties by using:
+Reikalavimai suvokiami komunikuojant su suinteresuotais asmenimis 
+naudotojais, naudojant:
+ Interviews  - pokalbiai, interviu,
+ monitoring and recording their activities  - stebint ir įrašant jų 
+veiklas,
+ organizing focus groups and seminars  –
+organizuojant  fokuso grupes ir seminarus ,
+ The outcome of each session is storytelling
+Kiekvienos sesijos rezultatas yra pasakojimai
+ Summarized stories become conceptual scenarios
+Apibendrinti pasakojimai tampa koncepciniais scenarijais 
+
+Data  collection
+7
+Duomenų  rinkimas
+Tools
+Priemonės
+Interviews 
+Pokalbiai (angl.  Interviews )
+Questionnaires  - Klausimynai
+Observations  - Stebėjimai
+Combination of methods 
+Metodų derinimas
+
+Successful data collection factors
+Sėkmingo  duomenų rinkimo veiksniai 8
+1. Set  Goals  - Nustatyti  tikslus
+2. Relations with the  participants  –
+Santykiai  su dalyviais
+ clear and  practical  - aiškūs  ir dalykiški
+ to  regulate  - reglamentuoti
+ Incentives for  participants  - Paskatinimai
+3. Combine observation, conversations and 
+documentation analysis
+Derinti  stebėjimus, pokalbius ir dokumentacijos  analizę
+4. Bandymai  (angl.  pilot studies )
+ Nedidelis pagrindinių tyrimų išbandymas
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+9 Interviews  - Interviu
+• Conducted with  Stakeholders
+Vykdomi  su suinteresuotų asmenų atstovais
+• Structured  - Struktūrizuoti
+• questions and answers defined in advance
+klausimai  ir atsakymai apibrėžti iš anksto
+• the respondent only chooses the answer
+responedantas  tik renkasi atsakymą
+What computer are you using ? ( Check all that apply )
+ Do not own a computer
+ IBM PC
+ Apple
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Interviews  - Interviu
+10
+• Semi structured  - the most  common
+Pusiau  struktūrizuoti  – dažniausi
+• according to the scenario  - pagal  išankstinį scenarijų, 
+• but important moments can be deepened.
+tačiau  įdomesni momentai gali būti gilinami.
+• Example :  - Pavyzdys :
+• Which music site do you usually visit?
+Kuriame  muzikiniame tinklalapyje dažniausiai lankotės?
+• Provides several, but highlights one mmm.com
+Pateikia  kelis, tačiau akcentuoja vieną  mmm.com
+• Why? - Kodėl ?
+• Answers that likes the layout
+Atsako , kad patinka išdėstymas
+• Who likes the layout ?  - Kas  patinka išdėstyme?
+• Somehow  paty , then describes the  navigation
+kažkiek  patyli, po to aprašo navigaciją.
+
+Interview Support  Tools
+11
+Interviu pagalbinės priemonės
+ First Level Scenario  - Storyteling
+Pirmo lygio scenarijai  - pasakojimai
+ participants (respondents) tell about situations in 
+which existing technologies do not satisfy them
+dalyviai (respondentai) papasakoja apie situacijas, kuriuose 
+esamos technologijos jų netenkina
+ analysts combine future technology use scenarios
+analitikai derina būsimos technologijos naudojimo scenarijų
+ Layouts  - Maketai
+ During the interview, the respondent may be asked 
+to complete the task using the layout, with a loud 
+commentary on the choices
+interviu metu respondentas gali būti prašomas atlikti užduotį, 
+naudojant maketą, garsiai komentuojant pasirinkimus
+angl. Think - aloud commentaries
+
+Practical aspects of the interview
+12 Praktiniai interviu aspektai
+ Preparation  - Pasiruošimas
+ Participation time is expensive, so preparing an interview 
+requires studying all available materials, company reports, 
+web pages, etc.
+Dalyvio laikas yra brangus, todėl ruošiantis interviu reikia išstudijuoti visą 
+prieinamą medžiagą, įmonės ataskaitas, tinklalapius ir pan.
+ Chat  tracking  - Pokalbio sekimas
+ It is complicated, it is more convenient to conduct 
+interviews for 2 persons: one  - talk,  the other writes answers
+Sudėtinga, patogiau interviu vykdyti 2 asmenims: vienas kalba, kitas 
+užsirašo atsakymus
+ When recording a conversation on a dictation, it is useful 
+to highlight key points
+Įrašant pokalbį diktofone įrašuose naudinga žymėti esminius aspektus
+ Audio recordings must be  transcribed  –
+Garso įrašus reikia transkribuoti
+
+Practical aspects of the  interview (2)
+13
+Praktiniai interviu aspektai (2)
+ Stories  - Pasakojimai
+ The analyst is concerned with the current problems, 
+opportunities for improvement
+Analitikui svarbios esamos problemos, tobulinimų 
+galimybes 
+ It may be important for the participant to talk, the 
+desire to prove meaningful
+Dalyviui gali būti svarbu išsikalbėti, noras pasirodyti 
+reikšmingu
+ Reflection and  exploration
+Apmąstymas ir tyrinėjimas
+ returning  for some time to previous answers, making 
+sure that they were correctly understood
+kas kurį laiką grįžtama prie ankstesnių atsakymų, įsitikinant, kad jie 
+buvo teisingai suprasti
+
+Practical aspects of the interview  (3)
+14
+Praktiniai interviu aspektai (3)
+ To start design are important common issues 
+Pradedant projektavimą svarbūs bendrieji klausimai 
+ How do you usually work (in the planned computerization 
+activity)?
+Kaip paprastai veikiate (planuojamoje kompiuterizauoti veikloje)?
+ What’s likes it, what's  wrong?
+Kas joje patinka, kas nepatinka?
+ How would you like to act?
+Kaip pageidautumėte veikti?
+ What did not work? How have you resolved?
+Kas neveikė? Kaip išsprendėte?
+ Maybe we should ask something else?
+Gal dar ko nors turėtume paklausti?
+ When to stop ?  - Kada sustoti?
+ The conversations do not reveal new insights
+Pokalbiai neatskleidžia naujų įžvalgų
+
+Interviews questions
+Pokalbių  klausimai 15
+• Closed questions provide answers
+Uždari  klausimai pateikia atsakymus , 
+− for  exp.: Yes,  No ;  - pvz . taip, ne;
+− easier to  analyze  - lengviau  analizuoti
+• Open  - is answered  freely ( Atviri  – atsakoma laisvai.
+ Avoid  - Vengiama
+− long and complex questions ;  ilgų  ir sudėtingų klausimų;
+− better divided into parts ;  geriau  dalinti į dalis;
+− for  example:  How do you like your cell phone compared to the ones 
+you have?
+pvz . vietoje: Kaip Jums patinka Jūsų mobilus telefonas lyginant su 
+buvusiais?
+− Do you like this phone? Did you have others Did they like it
+Ar  patinka šis telefonas? Ar turėjote kitus? Ar jie patiko?
+− unsuitable language and jargon for the participant; 
+dalyviui  nesuprantamos kalbos ir žargono; 
+− questions with  assumptions  klausimų  su prielaidomis
+− Why do you like  ...?  Kodėl  Jūs mėgstate ... ?
+
+16 What to ask ?  Ko klausti?
+ The  answer Challenging  questions
+Atsakymą sufleruojantys klausimai
+ Do you think day - to - day updating is an important 
+feature of the system?
+Ar manote, kad kasdienis duomenų  atnaujinimas yra svarbi 
+sistemos savybė?
+ Would you like to make shopping less cluttered?
+Ar norėtumėte, kad parduotuvių salės būtų mažiau užgriozdintos?
+ What features would you like in this system?
+Kokių funkcijų norėtumėte šioje sistemoje?
+
+Promoting a valuable response
+Vertingo  atsakymo skatinimas 17
+ Klausti  minimalų kiekį 
+ Ask for the  minimum amount of 
+informacijos, reikalingos 
+information needed for the purpose  tyrimo tikslams
+of the  study
+ Pažadėti anonimiškumą
+ Promise anonymity
+ Klausimynas neturi turėti 
+klaidų  The questionnaire must be free of 
+errors  Pasiūlyti trumpesnę versiją 
+skubantiems
+ Offer a shorter version for those who 
+ Jei siunčiama klasikiniu  in a  hurry
+paštu, kad įdėti apmokėtą 
+ If sent by classic mail, put a paid 
+voką su adresu
+envelope with the  address
+ Suteikti paskatinimo 
+ Provide incentives priemones
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Good  question properties
+Gero  klausimo savybės
+18
+http:// www.statpac.com/surveys/question - qualities.htm 
+1. Paskatina teisingą 
+1. Encourages the right
+atsakymą.
+answer .
+2. Klausiama vieno 
+konkretaus dalyko.
+2. One specific thing is asked .
+3. Padengia visus 
+3. Covers all possible options . galimus variantus .
+Do you own an IBM PC?  What brand of computer  do you  own?
+ Apple ○ Yes
+ IBM PC
+○ N o
+What brand of computer do you own ? ( Check all that apply )
+ Do not own a computer
+ IBM PC
+ Apple
+ Other
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Good question properties
+Gero  klausimo savybės (2)
+19
+Gimimo vieta http://www.statpac.com/surveys/question - qualities.htm
+ Kaimas
+4. Choices do not overlap
+ Sodyba
+Pasirinkimai  nepersidengia  Miestas
+5. The choice of answers is complete 
+(how much useful information) Ką manote apie šią 
+Atsakymų pasirinkimas yra pilnas  ataskaitą? 
+(kiek naudingos informacijos )
+A. Blogiausia ataskaita, kokią 
+skaičiau 6. Consistent sequence of questions .
+Nuosekli klausimų eiga. B. Tarp blogiausios ir 
+geriausios
+7. No unreasonable assumptions are 
+C. Geriausia, kokią skaičiau
+made (add I do not have 
+insurance)
+Nedaromos nepamatuotos prielaidos (pridėti 
+Neturiu draudimo)
+Are you satisfied with your current car  insurance  ( Yes /N o )
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Good question properties
+Gero klausimo savybės (3 )
+20
+http://www.statpac.com/surveys/question - qualities.htm
+8. N ot asking for a pre - determined answer
+Neperšamas  pageidaujamas atsakymas
+9. Having multiple meanings Would you like to get  ours booklet ?
+Nedviprasmiškas
+ most ,  least
+daugiausia, mažiausia, optimaliausia , ...
+10. Unknown words or abbreviations are not used
+Nenaudojami  nežinomi žodžiai ar santrumpos
+11. Does not depend on previous answers
+Nepriklauso  nuo buvusių atsakymų
+1.  Do you have life insurance ? ( Yes / No ).  If not, go to question 3
+12. Do not ask to rate more than 5 terms
+Neprašo  reitinguoti daugiau, kaip 5 sąvokų.
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Non - informative question s
+Neinformatyvūs  klausimai 21
+ How would the user   Kaip naudotojas 
+behave / what would he  pasielgtų/ko 
+like in a hypothetical  pageidautų hipotetinėje 
+situation ? situacijoje?
+ How often do they usually   Kaip dažnai jie kažką 
+do something ? paprastai daro?
+ Better: How many times have   Geriau: Kiek kartų kažką 
+you done something in the  darė pastarąją savaitę?
+last week ?
+ Prašymas įvertinti reiškinį 
+ Request to evaluate the 
+absoliučioje skalėje
+phenomenon on an 
+ Vengti klausimų, į kuriuos  absolute  scale
+galima atsakyti  taip/ne
+ Avoid questions that can 
+be answered yes / no
+
+Other forms of conversation
+22
+Kitos pokalbių formos
+ Telefoninės apklausos  Telephone surveys
+ suitable if it is difficult to   tinka, jei sunku susitikti 
+meet the  respondent su respondentu
+ similar to face - to - face   panašu į betarpišką 
+conversation, only no  pokalbį, tik nėra akių 
+eye contact and no  kontakto ir nesimato 
+visible body  language kūno kalbos 
+ Surveys over the  Apklausos per internetą
+Internet
+ el. laiškais, per IM, 
+ for sensitive questions  video konferencijose
+anonymity is an 
+ jautriems klausimams 
+advantage
+anonimiškumas yra 
+privalumas
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Questionnair es
+Klausimynai 23
+• Panašiai, kaip pokalbiuose • Just like as conversations
+• Klausimai atviri ar uždari • Questions are open or  closed
+• Uždarus  – lengviau  • Closed  - easier to analyze, this 
+analizuoti ,  tai gali atlikti  can be done by the  program
+programa • Used when there is sufficient 
+• Naudojama, kai pakankama  motivation
+pildymo motyvacija • More respondents are  interviewed
+• Apklausiama daugiau  • Distributed on paper, email or 
+respondentų online
+• Platinami popieriuje ,  • There is no possibility to clarify or 
+elektroniniais laiškais arba  explain the issue
+internete
+• Imties parinkimas 
+problematiškas internetiniams 
+taikymams, kai nėra žinomi 
+būsimi naudotojai
+• Nėra galimybės patikslinti ar 
+paaiškinti klausimą
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Questionnaire design
+24
+Klausimynų  projektavimas
+• Nusprendžiama , ar 
+• It is decided whether to create 
+kurti įvairius klausimynus 
+different questionnaires for 
+įvairioms naudotojų 
+different user groups .
+grupėms.
+• The questionnaire provides 
+• Klausimyne pateikiama 
+clear instructions for 
+aiški pildymo 
+completing it .
+instrukcija . 
+• Balance distances between 
+• Balansuoti atstumus 
+questions with  compactness
+tarp klausimų su 
+• Decide whether to make only  kompaktiškumu
+positive, only negative or mixed 
+• Nuspręsti, ar pateikti tik 
+claims.
+teigiančius, tik 
+neigiančius ar mišrius 
+tvirtinimus .
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Questions and Answers formats
+Klausimų  ir atsakymų formatai
+• Closed  question  Uždaras  klausimas
+– radio button: yes no ;  Žymimosios  akutės: Taip ir Ne
+– Checkboxes  - More  options  Žymimieji  langeliai  - daugiau variantų
+– Scales: Yes / No / I do not  know  Skalės :  Taip/ne/nežinau
+• Ranking  Reitingavimas
+– Likert scale: for opinions and  attitudes
+Likerto  s kalė: nuomonėms ir nuostatoms
+– strongly disagree / somewhat disagree / somewhat agree / agree / 
+strongly agree
+griežtai  nesutinku/ šiek tiek nesutinku/šiek tiek 
+sutinku/sutinku/griežtai sutinku
+– 3, 5, 7 or more  points?  3 , 5, 7  a r  daugiau taškų ?
+– when it is unclear what to answer, is selected closer to the center
+kai  neaišku, ką atsakyti, pasirenkama arčiau centro
+– the larger scale, harder to choose
+kuo  didesnė skalė, tuo sunkiai pasirinkti
+25
+
+When To Ask  Closed  Questions
+ In quantitative usability studies, where you are measuring time on 
+task and error rates, and you need to compare results among 
+users
+ In surveys where you expect many (1000+) respondents
+ When collecting data that must be measured carefully over 
+time, for example with repeated (identical) research efforts
+ When the set of possible answers is strictly limited for some reason
+ After you have done enough qualitative research that you have 
+excellent multiple - choice questions that cover most of the cases
+26
+
+Advantages of digital questionnaires
+Eketroninių klausimynų privalumai
+ Klausimynai siunčiami paštu  Questionnaires are  sent by
+email  pasiekiama pageidaujama 
+respondentų grupė
+ the selected group of respondents is 
+reached  Tinklalapyje
+ lankstesnis  pateikimas:   Web page
+meniu, žymimieji langeliai ir 
+akutės, ...  more flexible presentation : 
+menus,  checkbotton and
+ Greiti atsakymai
+radiobotton , ...
+ Nekainuoja kopijavimas ir 
+ Quick answers platinimas
+ Copying and distribution   Duomenys analizei gali būti 
+renkami duomenų bazėje are  free
+ Automatizuota duomenų 
+ Data for analysis are 
+analizė 
+collected in a  database
+ Klaidos lengvai  pataisomos
+ Automated data  analysis
+ Errors are  easily corrected
+27
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Problems with online questionnaires
+28
+Internetinių klausimynų problemos
+ Užtikrinti , kad vienas   Ensure that one 
+respondentas turėtų 
+respondent has the 
+galimybę atsakyti tik 
+opportunity to 
+vieną  kartą
+respond only once
+ Sometimes
+ Kai kada 
+questionnaires left
+klausimynuose 
+respondents the
+pateiktuose el. 
+opportunity to 
+laiškuose 
+change questions
+respondentai keičia 
+klausimus
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Working with a  group
+darbas  su grupe
+29
+
+Focus groups
+30 Fokuso  grupės
+ Dažna praktika rinkodaroje
+ Common practice in
+ Nuo 3 iki 10 dalyvių ir 
+marketing
+diskusijos vedantysis
+ From 3 to 10 participants   Dalyviai: suinteresuotų 
+and discussion  facilitator asmenų grupių atstovai
+ Participants: Representatives   Pateikiama išankstinė 
+darbotvarkė of stakeholder  groups
+ gali būti griežtai formalizuoti  A preliminary agenda is 
+presented  seminarai bendrame 
+taikymų kūrimo (angl.  Joint 
+ seminarai bendrame  Application Development ) 
+taikymų kūrimo (angl.  Joint  projektavime
+Application Development ) 
+ Tikslai projektavime
+ Surinkti įvairius požiūrius 
+ Goals
+kažkokiu klausimu
+ Gather different views on an   Suderinti panaudojamumo 
+issue tikslus
+ Find  a compromise for conflicting goals – Rasti kompromisą 
+prieštaringiems tikslams
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Problem
+Problema
+31
+• Ką naudotojai sako, 
+• What users say doesn't 
+nebūtinai taip ir daro:
+necessarily do this :
+– noras geriau pasirodyti; 
+• want to  perform better ; 
+– sakoma tai, ką tikriausiai nori 
+– says what you probably want 
+išgirsti pašnekovas;
+to hear ;
+– galima ir pamiršti kai ką ...
+– could forget something ...
+• Pavyzdžiui
+• For example
+– tyrime, kaip pagerinti sistemų 
+– study on how to improve the 
+priežiūrą, 
+maintenance of systems ,
+• dažniausi atsakymai: 
+• most common answers: we 
+skaitome dokumentaciją;
+read the documentation ;
+• stebėjimai parodė: beveik 
+• observations showed: almost 
+visi žiūrėjo kodą. 
+everyone was watching the 
+code .
+• Kiek galime pasitikėti 
+atsakymais?
+• How much can we trust the 
+answers?
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Card sorting
+32
+Kortelių rūšiavimas
+ To understand how people categorize and 
+classify  concepts
+Skirti suprasti, kaip žmonės klasifikuoja ir kategorizuoja sąvokas
+ Atvira
+ asmenų grupė sugalvoja sąvokas ir veiksmus svarbias 
+tam tikroje srityje, po to jas surūšiuoja
+ Uždara
+ Asmenų grupė gauna sąvokas ir veiksmus, kad 
+sugrupuotų ir sudarytas grupes pavadintų
+ Rezultatas  – taksonomija
+ Gali būti betarpiški ir naudojant internetines 
+priemones
+
+Card sorting
+33
+Kortelių  rūšiavimas
+Moderated
+Online
+
+34
+
+Observations  - Stebėjimai
+ It's hard for people to tell what and how they do it
+Žmonėms sunku pasakoti, ką ir kaip jie daro
+ Questionnaires and interviews
+Klausimynai  ir pokalbiai 
+ is not a completely reliable  source
+nėra  visiškai patikimas šaltinis
+ combined with observations derinami  su stebėjimais
+ Direct observation 
+Tiesioginis stebėjimas vietoje
+ Naudojamos struktūrizuotos duomenų rinkimo sistemos
+ Dalyvavimo laipsnis ( vidinis ar išorinis )
+ Tiesioginis stebėjimas valdomoje aplinkoje
+ Indirect observation : tracking user actions
+Netiesioginis stebėjimas :  naudotojo veiksmų sekimas
+ Diaries - Dienynai
+ Interaction  recording  - Sąveikos  protokolavimas
+35
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Structured data  collection systems
+Struktūrizuotos  duomenų rinkimo sistemos  36
+Goetz  ir  LeCompte
+Simple observation
+sistem (1984):
+Paprastas  stebėjimas
+ Who is involved ?
+Kas  dalyvauja ?   Person .  Who ? 
+Asmuo .  Kas ?   What role ? Kokia  rolė ? 
+ Place .  Where ?  What's happening ?
+Kas  vyksta ?  Vieta . Kur ?
+ When do activities take place ?  Artifacts are  used . 
+Kada  vyksta veikla ?
+Who ? 
+ Where do the activities take place?  Naudojami   artefaktai .
+Kur  vyksta veikla ?  Kas ?
+ Why is there activity ? Kodėl  vyksta 
+veikla ? 
+ How is the activity organized ?
+Kaip  veikla organizuota ? 
+Įrašai Pokalbiai Klausimynai Stebėjimai
+
+Workplace analysis
+Darbo  vietos analizė
+37
+Cooperation systems
+Bendradarbiavimo  sistemoms
+1. Laptop for file archiving, 
+calendar, document 
+preparation, mail and 
+internet
+2. Notebook
+3. Printed magazine  articles
+4. CD  – archive
+5. Various documents
+6. Leaflets with current tasks
+7. Telefon
+8. Desktop computer  - archives 
+of older files, mail, if not on 
+the laptop
+
+Recording of observation data
+Stebėjimų duomenų fiksavimas
+ Measures are selected 
+according to
+• availability of 
+equipment
+• degree of obsession
+• completeness of the 
+data received
+• data reliability
+ Priemonės pasirenkamos pagal
+• the degree of user 
+ įrangos prieinamumą
+annoyance
+ įkyrumo laipsnį
+• the complexity of further 
+analysis  gaunamų duomenų pilnumą
+ duomenų patikimumą  Choice
+ naudotojų trikdymo laipsnį
+• Notes + photos
+ tolimesnės analizės sudėtingumą
+• Sound recordings + 
+photographs  Pasirinkimas
+• Audio and video  • Užrašai + fotografijos
+recordings, photographs
+• Garso įrašai + fotografijos
+• Video recordings
+• Garso ir vaizdo įrašai ,  fotografijos 38
+• Vaizdo įrašai
+
+Summary
+39
+ Naudotojui palankus 
+ User - centered projektavimas
+design  Įtraukiantis naudotojus į 
+projektavimą
+ Involving users in
+ Nagrinėjant 
+design
+personas ir 
+formuluojant joms   Analyzing person as
+panaudojamumo 
+and formulating 
+tikslus
+usability targets for 
+ Analizuojant  them
+užduotis
+ Analyzing tasks
+ Kuriant eskizus
+ Creating sketches
+ Testuojant juos
+ Testing them
+
+Sources 40
+ Von Hippel, E. (1986).  Lead users: a source of novel 
+product concepts . Management science , 32 (7), 
+791 - 805.
+ Panaudojamumo inžinerija
+ ISO 13407  Human centered design processes for 
+interactive systems
+http://www.usabilitynet.org/tools/13407stds.htm

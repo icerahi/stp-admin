@@ -1,0 +1,655 @@
+Sąveikos maketavimas ir 
+už duo č i ų analiz ė
+Envisionment
+Interaction  design and hierarchical task analysis
+7  lecture
+
+Analysis of the interaction with the 
+2
+system
+ In visionment is concerned with 
+making ideas visible; with eternalizing 
+thoughts. 
+ Envisionment techniques:
+Sąveikos maketavimas
+ Scenarios - Scenarijai
+ Storyboards  - Kadruotės
+ H ierarchical task analysis
+Hierarchinė užduočių analizė
+ UML  diagrams
+
+Interfeiso projektavimas ir panaudojamumo inžinerija ( Soul Greenberg )
+Articulate: Brainstorm  Refined  Completed 
+• who users are 3 designs designs designs
+Goals: • their key tasks
+Task 
+Graphical  Psychology of 
+centered  Participatory 
+screen  everyday 
+system  interaction
+design things Evaluate Usability  Field 
+design
+testing testing Interface  User 
+Participatory  Methods:
+guidelines involvement Task 
+design
+scenario 
+Style  Representation  Heuristic 
+User - walk -
+guides & metaphors evaluation
+centered  through
+design
+high fidelity  low fidelity 
+prototyping  prototyping 
+methods methods
+Throw - away  User and  Testable  Alpha/beta  Products:
+paper  task  prototypes systems  or
+prototypes descriptions complete 
+specification
+
+Herbert A. Simon  about  Behavior
+4 Herbert A. Simon apie elgseną
+ Behavior depends on the environment
+Elgsena priklauso nuo aplinkos: 
+ complex environment requires complex 
+behavior
+sudėtinga aplinka reikalauja sudėtingos 
+elgsenos
+ the environment will change  - behavior will 
+change too
+pasikeis aplinka  – pasikeis ir elgsena
+ The purpose of the project is to 
+change the current situation to the 
+desired 
+Projektavimo tikslas  – transformuoti esamą 
+situaciją į pageidaujamą
+http://www.amphilsoc.org/sites/default/files/proceedings/213.pdf
+
+Start of interoperability design
+5
+Sąveikos projektavimo pradžia
+ Most common start error :
+Dažniausia pradžios klaida: 
+ Immediately thinking about the interface without 
+getting into the user's  operation circumstances
+iš karto galvojama apie interfeisą neįsigilinus į naudotojo 
+veikimo aplinkybes
+ Then an  non - explicit task analysis  is performed in 
+the design, that is,
+Tada projektuojant atliekama  neišreikštinė  užduočių 
+analizė, tai yra 
+ No deepen understanding  of the problem trying 
+immediately to  create a  solution
+neįsigilinus į problemą stengiamasi iš karto kurti sprendinį
+
+T ask analysis
+6
+Užduočių analizė
+ Explicit  task  analysis  - is
+Išreikštinė užduočių analizė  – tai 
+ conceptual basis of the project
+koncepcinis projekto pagrindas, 
+ relation with  the real situation
+sąsaja su tikra situacija, 
+ based on communication with  stakeholders
+paremta bendravimu su suiteresuotais asmenimis
+ The first is to understand the circumstances of the tasks
+Pirma  – suprasti užduočių aplinkybes, 
+ Next ,  offer solutions
+Toliau   - siūlyti sprendinius
+
+Task analysis results
+7
+Užduočių analizės rezultatai
+ What steps should the user achieve the goal?
+Kokiais žingsniais naudotojas turėtų pasiekti tikslą?
+ What information or tools do you need in each 
+step?
+Kokios informacijos ar priemonių reikia kiekviename žingsnyje?
+ What is the purpose of the activity and how is the 
+success of the activity measured?
+Kas yra veiklos tikslas ir kaip matuojama veiklos sėkmė?
+ One step may be complicated, the other may 
+have untapped opportunities
+Vienas žingsnis gali būti sudėtingas, kitame gali būti 
+neišnaudotos galimybės
+
+An example of task analysis
+Užduočių analizės pavyzdys 8
+ Start to drive the  car  - Užvesti mašiną
+ Unlock the driver's door
+Atrakinti vairuotojo duris 
+ Sit behind the wheel
+Sėsti už vairo 
+ Put the key on the ignition switch
+Įdėti raktą į uždegimo jungiklį
+ Turn the key to the anti - clockwise direction
+Pasukti raktelį iki galo prieš laikrodžio rodyklę 
+ When the engine starts, release the key
+Kai variklis užsives, atleisti raktą
+ Artifacts - Artefaktai
+ Keys, car’s door, ignition switch
+Raktai, mašinos durys, uždegimo jungiklis
+
+Product targets
+Produkto tikslai 
+Wireframe and  Mockup (mock - up)
+Maketai
+Project solutions
+Projektiniai sprendimai
+
+Mockup (mock - up) - limited realization
+Maketas  – ribota realizacija 
+ Helps to test
+Padeda išbandyti
+ Design: How could this look?
+Dizainą: kaip tai galėtų atrodyti?
+ Realization: How could it work?
+Realizaciją: kaip tai galėtų veikti?
+ Feel: Is it nice to use?
+Jausmus: ar malonu naudoti?
+
+Mockup (mock - up) - limited realization
+Maketas  – ribota realizacija 
+ Context
+Esmė
+ allows you to know the subject area 
+dalykinės srities pažinimas
+ allows for business communication
+dalykiškas bendravimas
+ cheap development and modification
+pigus kūrimas ir modifikavimas
+ designed to refine needs and requirements
+skirtas tikslinti poreikius ir reikalavimus
+
+Design  documentation in the life cycle of 
+the project
+Maketavimas projekto gyvavimo cikle
+accuracy
+Detalusis prototipas (high - fidelity prototype)
+Tikslumas
+Interaktyvusis maketas ( Mockup (mock - up )
+Maketas popieriuje ( Layout on paper )
+Kadruot ės (angl. storyboarding)
+Progress of the  project
+Projekto  eiga
+Scot Klemmer,  www.hci - class.org
+
+Type of  Design documentation 
+Maketų tipai
+1. Envisionment techniques
+Sąveikos su sistema maketai
+2. Interfeisų maketai – Interfaces Mockups
+ Popieriniai maketai – paper prototype
+ Vieliniai modeliai - wireframes
+ Interaktyvieji maketai - interactive  Mockups
+angl. Mood boards 3. Nuotaikos lentos
+https://designmodo.com/wireframing - prototyping - mockuping /
+
+Analysis of the interaction with the system
+14 Sąveikos su sistema analizė
+Envisionment techniques:
+ Scenarios - Scenarijai
+ Storyboarding - Kadruotės
+angl. Wizards of Oz experiment
+ Sąveikos imitacija
+ Hierarchical task analysis
+Hierarchinė užduočių analizė
+ Conceptual modeling of the subject area
+Koncepcinis dalykinės srities modeliavimas
+ UML  diagrams - UML diagramos
+ Navigation maps  - Navigacijos žemėlapiai
+
+Task Scenarios
+15
+Užduoties scenarijai
+ From where lent this idea?
+Iš kur paskolinta ši idėja?
+ From cinematography
+Iš kinematografijos
+ Scenarios of the most important  events
+Svarbiausių įvykių scenarijai
+ without going into detail  - Nesigilinant į detales
+ Highlighting critical moments 
+Akcentuojat  esminius momentus
+https:// www.youtube.com/watch?v=4IvijAfjb4U
+User action System response
+Vartotojo veiksmas Sistemos atsakas
+
+16
+Ink Chat
+
+Scenario  - Scenarijai
+17
+ I want to find a book by  Laur Esquivel
+Noriu rasti Lauros Esquivel knygą. 
+ I do not remember her name, but I know that it was released 
+in 2003.
+Neprisimenu jos pavadinimo, bet žinau, kad ji išleista 2003 m. 
+ I go to the library,  open folder in computer and  I enter the 
+username and password .
+Einu į biblioteką, kompiuteryje  katalogą ir įvedu naudotojo vardą ir 
+slaptažodį. 
+ I do not understand why I have to do this because I've already 
+gone through the firewall.
+Nesuprantu, kodėl turiu tai daryti, nes jau praėjau pro užkardą. 
+ When the password is approved, I can choose:
+Kai slaptažodis patvirtintas, galiu pasirinkti: 
+ search by author or by year of publication, but I can not select 
+both search fields together.
+ieškoti pagal autorių ar pagal išleidimo metus, tačiau negaliu pasirinkti 
+abiejų paieškos laukų kartu. 
+
+Scenario  – Scenarijai (2)
+18
+ I choose a search by author, since the searches for the 
+year provide many books.
+Pasirenku paiešką pagal autorių, nes paieška pagal metus pateikia 
+daugybę knygų. 
+ After 30 seconds, the directory replies that the author's 
+books are not found and displays many books with a 
+similar name to the author.
+Po 30 sekundžių katalogas pateikia atsakymą, kad nurodyto 
+autoriaus knygų nerasta ir rodo daugybę knygų su panašia į 
+autoriaus pavarde. 
+ After reading the list, I understand that I wrote the 
+author's name incorrectly.
+Peržvelgęs sąrašą suprantu, kad klaidingai parašiau autoriaus vardą. 
+ Then I select the desired book and the system shows 
+where it is.
+Tuomet pasirenku pageidaujamą knygą ir sistema parodo, kur ji yra. 
+
+Storyboards  - Kadruotės
+19
+ Graphical  user sequence of actions
+Grafiška naudotojo veiskmų seka
+ Show - Parodo
+ sequence of actions 
+Veiksmų seką
+ Motivation - Motyvaciją
+ Who is involved
+Kas dalyvauja
+ Where activities are going
+Kur vyksta veikla
+ What artifacts  help the actor carry  out  activities
+Kokie artefaktai padeda veikėjui atlikti veiklas
+ Success criterion
+Sėkmės kriterijų
+
+Storyboards  - Kadruotės
+The purpose is  to provide an idea of interaction , 
+rather  than draw a beautiful  picture
+Tikslas  – pateikti sąveikos idėją , o ne nupiešti gražų paveikslą
+https:// www.youtube.com/watch?v=Hn0oxvw7 - OE
+
+What's present  in Storyboards?
+Kas pateikiama kadruotėje?
+ Context of the  activities  - Veiklų 
+kontekstas
+ Who is involved  - Kas dalyvauja
+ The  environment - Aplinka
+ Executed  tasks  - Vykdomos užduotys
+ The  sequence of activities
+Veiklos etapų eiliškumas  Motivation  - Motyvacija
+ What steps do you  have?   What's the benefit  - Kokia 
+Kokie veiklos žingsniai? nauda?
+ What helps to carry out?  - Ką   Why exactly this action is?
+padeda atlikti? Kodėl veiki a ma būtent taip?
+ What are the success criteria?   What is happening right now?
+- Kokie sėkmės kriterijai?
+Kas dabar vykdoma?
+ What features should you 
+have?  - Kokias funkcijas turėtų 
+turėti?
+
+Advantages of  the  Storyboarding
+Kadruotės privalumai
+ Advantages  - Privalumai
+ Not linked to a specific interface
+Nepririša prie konkretaus interfeiso
+ Suitable for matching product aim with 
+stakeholder groups
+Tinka derinti produkto tikslussu suinteresuotų  asmenų 
+grupėmis
+ The temptation to improve drawings 
+protects time constraints, for example. 10 
+minutes
+Nuo pagundos tobulinti piešinius apsaugo laiko limitas, 
+pvz. 10 minučių
+
+Wizards  of Oz prototyping
+Sąveiką imituojantis maketas
+ Simulates the system without  coding
+Imituoja sistemą be kodavimo
+ Wizards of Oz, Jeff Kelly, 1980, doctoral dissertation
+Wizards of Oz, Jeff Kelly, 1980, daktaro disertacija
+ The user sees the Mockup of the interface, presses the button 
+and sees the response
+Naudotojas mato interfeiso maketą, spaudžia mygtykus ir mato atsaką
+ The response is generated by a distant designer
+Atsaką generuoja nutolęs projektuotojas
+ The designer can propose changes in real time
+Projektuotojas gali realiuoju laiku siūly t i pakeitimus
+ System behavior is imitated by a person
+Sistemos elgseną  imituoja žmogus
+
+Wizard - of - Oz  eksperimentai
+https://www.youtube.com/watch?v=cKrq2N8gTgs
+ The purpose is to simulate a system with only interface images.
+Tikslas  – imituoti sistemą, turint tik interfeiso vaizdus.
+ Prototype  - a set of pictures 
+Prototipas  – paveikslų rinkinys
+ Interactivity is imitated by a person sitting next to the 
+computer
+Interaktyvumą imituoja sėdinti prie kito kompiuterio žmogus
+ An user is not know that the system is  fake
+Naudotojas nežino, kad sistema netikra
+Naudotojas
+>Blurb  blurb
+>Do this
+>Why?
+Sistemą imituojantis 
+projektuotojas
+
+Creating  a  Wizard - of - Oz 
+Sąveiką imituojančio maketo kūrimas
+ Create input and output views
+Sukurti įvesties ir išvesties rodinius
+ Combine them into a continuous task
+Sujungti juos į vientisas užduotis
+ Decide how to simulate the entry?
+Nuspręsti, kaip imituoti įvedimą?
+ Before showing users,  try with a colleague
+Prieš rodant naudotojams, išbandyti su kolega
+ Testing Assistant Requests to do the task and monitor 
+them
+Testavimo asistentas prašo atlikti užduotį ir stebi
+ The Assistant - simulator acts as a system
+Asistentas - imitatorius veikia kaip sistema
+ User response  - Naudotojo atsakas
+ Thought loud during the test, discussion after the test, heuristic 
+evaluation
+Mastymas garsiai testo metu, aptarimas po testo, euristinis 
+vertinimas
+
+Video layout
+Video maketas
+ Cheap and fast layout of mobile products
+Pigu ir greita maketuoti mobilius produktus
+ Communicates the user's operation in a natural 
+environment
+Komunikuoja naudotojo veikimą natūralioje aplinkoje
+ Link the user interface to the user activities
+Susieja interfeisą su naudotojo veiklomis
+ Ensures the fullness of the interfaces, as it shows the 
+activity from start to finish
+Užtikrina interfeisų pilnumą, nes rodo veiklą nuo pradžios iki pabaigos
+ Illustrates important system tasks
+Iliustruoja svarbias sistemos užduotis
+ The movie may be with sound or subtitles
+Filmukas gali būti su garsu ar  subtitrais
+
+Video layout
+Video maketas
+ What is showing ? - Ką rodo?
+ Essential tasks, activity motivation and success 
+criteria
+Esmines užduotis, veiklos motyvaciją ir sėkmės 
+kriterijus
+ Similar  as storyboards
+Panašiai, kaip ir kadruotė
+ Helps to define minimal functionality
+Padeda apibrėžti minimalų funkcionalumą
+ https:// www.youtube.com/watch?v=wbiYA
+qbZryA
+
+Video layout
+Video maketas
+ How are they created?
+Kaip kuriamas?
+ Beginning with a plan or  Storyboards 
+Pradedama nuo plano ar kadruotės
+ Can be  improvised
+Galima improvizuoti
+ Any  camera is suitable
+Tinka bet kuri kamera
+ Participants and real environment are selected
+Parenkami dalyviai ir tikroviška aplinka
+ It's important to show user interaction, the quality of 
+the movie is not  important
+Svarbiausia parodyti naudotojo sąveiką, filmo 
+kokybė nėra itin svarbi
+
+H ierarchical  task analysis
+Hierarchinė užduočių analizė
+30
+
+Goals, tasks and actions
+31
+Tikslai, užduotys ir veiksmai
+ Task is a structured sequence of actions with 
+the technology that the user performs for the 
+purpose
+Užduotis  – struktūrizuota veiksmų su technologija seka, kurią 
+vartotojas atlieka siekdamas tikslų .
+ Complex  tasks are decomposed into a task
+Sudėtinės užduotys dekomponuojamos į použduotis
+
+H ierarchical task analysis
+32
+Hierarchinė užduočių analizė
+Hierarchical task analysis, HTA
+ HTA =  Tasks ( Užduotys ) +  plans ( planai )
+ The task decomposition is performed
+Atliekama užduočių dekompozicija
+ D escribed p lans - Apibrėžiami planai
+ in what order and under what conditions the decomposed 
+tasks are carried out
+kokia tvarka ir kokiomis sąlygomis použduotys yra 
+atliekamos
+ Purpose: Mark the hierarchy levels
+Tikslas: Pažymėti hierarchijos lygius
+ Used for making Mockup and documentation
+Naudojama: kuriant eskizus ir dokumentaciją
+ Sources  - Šaltiniai
+ Documentation, observation , interview
+Dokumentacija, stebėjimas, pokalbiai
+
+Description of the text hierarchical task 
+analysis
+33
+Tekstinis hierarchinė užduočių analizės aprašas
+0.  make a cup of tea
+ Plan s 1.  to boil  water  - užvirti vandenį
+ What order?  - Kokia  tvarka 2.  pour  out the  cup  - išpilti puoduką
+ Fixed sequence  – 3.  add hot water to the cup
+Fiksuota  seka
+4.  wait 4 - 5 minutes
+ Under what conditions
+Kokiomis  sąlygomis  5.  add tea
+ for choosing tasks? 5.1  add milk to the cup
+Pasirenkamos  užduotys 
+5.2  add tea to the cup
+ for action waiting
+Veiksmų  laukimas 5.3  add sugar by taste
+ Cycles  - Ciklai Plan 0.
+ Time splitting - Laiko  Make 1
+dalijimas
+At the same time, if the cup is full 
+make 2
+Then make  3 - 4
+After  4 - 5 min  make  5
+Plan 5.   Make  5.1 - 5.2
+ If needed   5.3
+
+Description of the graphical hierarchical task 
+analysis
+Grafinis hierarchinės užduočių analizės pavaizdavimas 34
+Plan s
+Plan 1: If you know where 
+the book is located, 
+perform 1 - 3 - 4
+1  planas: jei žinoma, kur stovi knyga, 
+atlikti  1 - 3 - 4
+2 planas: jei nežinoma, kur 
+stovi knyga, atlikti 2 - 3 - 4. 
+2.1 planas: ieškoti knygos 
+kataloge 2.1 - 2.4 - 2.5
+2.2 planas: ieškoti knygos, 
+naudojant paieškos langą 
+2.2 - 2.3 - 2.4
+Decomposition of tasks
+Užduočių 
+dekompozicija
+
+Techniques for  analyzing
+software system engineering 
+tasks
+Programų sistemų inžinerijos 
+užduočių analizės būdai
+35
+
+38 UML
+Use cases - Užduočių diagrama
+Sequence
+diagram
+Sekų diagrama
+
+UML  State s  diagram
+39
+UML būsenų diagrama
+
+Entity - relationship techni
+40
+Esybių ryšių technikos
+ Database design
+ Analyzed
+ Objects
+ Attributes
+ Actions
+
+A site map and navigation structure
+41
+Navigacijos žemėlapiai
+ Shows how users will 
+move on the site
+Parodo, kaip 
+naudotojai judės 
+svetainėje
+ Inappropriate 
+navigation structure are 
+often the cause of lose 
+way by  users
+Netinkama navigacijos 
+struktūra yra dažnai 
+vartotojų pasimetimo 
+priežastis
+
+angl. Mood boards Nuotaikos lentos
+43
+ To form the design elements of 
+the product being developed
+ photographs , 
+ Images
+ Textures
+ Colors
+ Forms
+ header styles
+ Kuriamo produkto dizaino 
+elementams formuoti
+ fotografijos, vaizdai
+ tekstūros
+ spalvos
+ formos 
+ antraščių stiliai
+http://viget.com/inspire/perspectives - on - mood - boards
+
+Comparison of task analysis methods
+Why  Who is  Where  What are  44
+Steps exactly this  involved  activities  the 
+Kas vykdo  action is? are going success 
+užduotį? Kodėl Kur  Žingsniai criteria? 
+vykdoma  vykdoma 
+Pasitenkinim
+užduotis?
+užduotis? o sąlyga
+Storyboards Yes Yes Yes Yes Yes
+Scenarios Yes Yes Yes Yes Yes
+hierarchical  Yes No Yes N o N o
+task analysis
+UML  Yes Not in the  Yes N o Not in the 
+Sequence diagram, in  diagram, in 
+and  State s  the  the 
+diagram description  - description  -
+is is
+Wizard - of - Oz  Yes Yes Yes Yes Yes
+technics
+
+What's better: quality or quantity?
+Kas geriau :  kokyb ė ar kiekyb ė?
+www.hci - class.org ,  Bayles and Orland, 2001
+
+Which way is better ?
+Nuoseklus Lygiagretus
+Mockup Mockup M ockup
+Feedback
+Feedback
+Feedback
+M ockup
+M ockup
+Feedback
+M ockup
+( Dow, Fortuna, Schwartz, Altringer,  S chwartz ,  Klemmer , 2011)
+
+Summary
+47
+ Storyboards ,  Scenarios
+ includes not only the steps of the task, but also 
+motivation (start condition), context, and 
+measure of satisfaction (condition of successful 
+completion ).
+ UML modeling shows the steps of a task , 
+ however, the descriptions provide an opportunity 
+to describe the conditions for the start and 
+successful completion of the  activity
+ Hierarchical task analysis is limited to task 
+decomposition and step order . 
+
+Sources
+48
+ H ierarchical task analysis
+ Kristina  Moroz - Lapin. Žmogaus ir kompiuterio sąveika, 
+TEV, 2008. 8.5 skyrius, 133 - 137 psl.
+ A.Dix, Dix, A., J. Finlay, G. Abowd, R. Beale .  
+Human - Computer Interaction, Prentice Hall , 2003, 
+2008
+ 2003 metų leidinyje 
+ 2008 metų leidinyje 15.3 skyrius, 512 - 519 psl.
+ Design  of sketch layouts
+ Bill  Buxton.  Sketching User Experiences . Morgan 
+Kaufman,  2007.
+ Alan Cooper, Reimann Robert, Dave Croni.  About 
+face 3: the essentials of interaction design . Wiley, 
+2007.
+
+Sources
+ Scot Klemmer, Lecture 3.1, Paper prototypes and mockups,  www.hci - class.org
+ Björn Hartmann  , PhD thesis,  2009 
+http://hci.stanford.edu/publications/2009/hartmann - diss.pdf
+ Marion  Buchenau , Jane Fulton  Suri (2000). Experience Prototyping. Proceedings 
+of the 3rd conference on Designing Interactive Systems: Processes, Practices, 
+Methods, and Techniques, DIS ’00, ACM, New York, pp. 424 - 433 
+http://dl.acm.org/citation.cfm?id=347802
+ Bill Buxton, Sketching User Experiences: Getting the Design Right and the Right 
+Design, Amsterdam : Elsevier/ Morgan Kaufmann, 2008. ( yra MIF  bibliotekoje )
+ Prototyping Dynamics: Sharing Multiple Designs Improves Exploration, Group 
+Rapport, and Results, Steven P . Dow, Julie Fortuna, Dan Schwartz, Beth 
+Altringer, Daniel L Schwartz, and Scott R  Klemmer .  CHI: ACM Conference on
+Human Factors in Computing Systems, 2011.
+ Parallel Prototyping Leads to Better Design Results, More Divergence, and 
+Increased Self - Efficacy, Steven P Dow, Alana  Glassco , Jonathan  Kass , Melissa 
+Schwarz, Daniel Schwartz, Scott R  Klemmer .  ACM Transactions on Computer -
+Human Interaction, 2010
+ The Efficacy of Prototyping Under Time Constraints, Steven P. Dow, Kate 
+Heddleston , Scott R  Klemmer .  Creativity & Cognition, 2009
+ Functional Fixedness in the Workplace

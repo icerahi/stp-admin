@@ -1,0 +1,1439 @@
+Usability expert inspections :  Heuristic
+Evaluation
+Panaudojamumo vertinimai:  euristinis  tikrinimas
+14 lecture
+Žmogaus ir kompiuterio sąsajos projektavimas
+Expert inspections
+Ekspertiniai  tikrinimai 
+
+2 Turinys
+Types of usability evaluations
+Panaudojamumo vertinimų tipai
+Heuristic evaluation
+Euristinis tikrinimas
+Organization of Heuristic evaluation
+Euristinio tikrinimo organizavimas
+
+User - centered design
+Naudotojui palankus procesas 3
+Implement in the 
+system
+R ealize Evaluate
+Įnešti  pakeitimus 
+realizuoti vertinti
+sistemoje
+Redesigned
+perprojektuot i Design Evaluate
+projektuoti vertinti
+Redesigned
+perprojektuoti Evaluate
+... vertinti
+Implement in the 
+system
+Realizuoti  sistemoje
+
+Evaluations  - Vertinimai
+4
+ What is evaluated ?  Kas vertinama?
+ Layouts  and  prototypes  Maketai ir prototipai
+ When  is it valued ?  Kada vertinama?
+ During the  project  - a   projekto eigoje  –
+formuojantis vertinimas formative  assessment
+ projekto pabaigoje  –  At  the end of the project, 
+apibendrinamasis  a  summative evaluation
+vertinimas
+ Why?
+ Kodėl?
+ early to find out
+ anksti sužinoti apie 
+usability problems
+panaudojamumo 
+problemas  Problems
+ Problemos  disturbing  activity, 
+requiring specific 
+ trikdo veiklą, reikalauja 
+knowledge, distorting the 
+specifinių žinių, iškraipo 
+process being  measured
+matuojamą procesą
+ Negative  feedback
+ Neigiami atsiliepimai
+
+5 Goals - Tikslai
+ Has the activity  become  Ar veikla tapo 
+ faster?  spartesnė?
+ paprastesnė?  simpler ?
+more enjoyable ?
+ malonesnė?
+ Does increased 
+ Ar padaugėjo 
+opportunities to make a 
+galimybių suklysti?
+mistake ?
+ Ar aišku, kaip grįžti, 
+ Is  it clear how to get 
+nuėjus klaidingu keliu?
+back by going wrong ?
+ Ar matomi visi užduočių 
+ Are  all methods for 
+formulavimo būdai?
+formulating tasks visible?
+
+Types of usability evaluations
+6
+Panaudojamumo vertinimų tipai
+ Empirical - Includes users 
+ Empiriniai – įtraukia 
+in the  assessment naudotojus į vertinimą
+ Analitiniai  Analytical
+ Formalieji –  Formal - simulates user 
+modeliuojama 
+behavior and  measures
+naudotojų elgsena ir 
+ Experts - experts are  apskaičiuojami matai
+checking on the basis of 
+ Ekspertiniai – ekspertai 
+Heuristics and other 
+tikrina, remiantis 
+experiences
+euristikomis ir kita 
+patirtimi
+ Automatic - Based on the 
+ Automatiniai – remiantis  model  the program 
+modeliu programa įvertina 
+evaluates the usability
+2021 - 04 -
+panaudojamumą 06 13:14
+
+U sability evaluations
+7
+Panaudojamumo vertinimai
+Analytical ( expert )  evaluations Empirical tests
+Analitiniai (ekspertiniai) 
+Empiriniai testavimai
+vertinimai
+Take  part - Dalyvauja
+Take  part - Dalyvauja • Experts - Ekspertai
+• Users  - Naudotojai
+• Experts - Ekspertai
+• Viewers ( e.g .,  programmers )
+Stebėtojai (pvz. programuotojai)
+Methods  - Metodai
+• Heuristic evaluation  - Euristiniai 
+Methods  - Metodai
+tikrinimai
+• Think - aloud    -- Mastymas
+• Cognitive walkthrough  -
+garsiai 
+Pažintinės peržvalgos
+• Observations - Stebėjimai
+• Analysis of activities  - Veiksmų 
+• Survey - Apklausos analizė
+Expert inspections Usability testing
+
+Heuristic evaluation  .  What is it?
+8
+Euristinis tikrinimas
+Kas tai?
+ Heuristic evaluation  show how  the interface 
+meets the principles of usability.
+ To apply for  testing the  usability principles are 
+called  Usability Heuristics 
+ Euristinių tikrinimu vertinama, kaip  interfeisas atitinka 
+panaudojamumo principus.
+ Tikrinimams pritaikyti  panaudojamumo principai vadinami 
+euristikomis
+2021 - 04 -
+06 13:14
+
+Expert  reviews
+9
+Ekspertų tikrinimai
+ Pagrindas: 
+ Basis :
+ pažintinės psichologijos 
+ cognitive  psychology models 
+modeliai arba 
+or
+ projektavimo euristikos
+ Usability Heuristics
+ Taikomi nuo projekto pradžios
+ Applies  from the start of the 
+project  Nebūtinas detalusis maketas
+ taupomas laikas, skirtas   No  detailed layout is  required
+detaliajam maketui kurti,
+ saving  time for creating a 
+detailed layout ;  V ykdo: panaudojamumo 
+ Executes : Usability Experts or  ekspertai arba interfeiso 
+Interface  Architects architektai
+ Defects  are found, which is not 
+ Randami defektai, kuriuos 
+always shown by  testing with 
+nevisada parodo testavimas
+users
+ Darnos, lankstumo problemos
+ Consistency , flexibility  problems
+
+How many experts ?
+10
+Kiek ekspertų?
+http://www.nngroup.com/articles/how - to - conduct - a - heuristic -
+2021 - 04 - evaluation/
+06 13:14
+
+Quality - to - price ratio
+11
+Kokybės ir kainos santykis
+http://www.nngroup.com/articles/how - to - conduct - a - heuristic -
+2021 - 04 -
+evaluation/ 06 13:14
+
+Usability Heuristics
+12
+Panaudojamumo euristikos
+ We have to choose  from  - Turime iš ko rinktis
+ Nielsen Heuristics  - Nielseno euristikos (10)
+ Norman rules - Normano taisyklės (4)
+ iš knygos “ Design of Everyday Things ”
+ T ognazzini heuristics - Tognazzini principai (16)
+ http://www.asktog.com/basics/firstPrinciples.html
+ Shneiderman's "Eight Golden Rules of Interface 
+Design" 
+Shneidermano „auksinės“ taisyklės
+ Iš knygos “ Designing the user interface ”
+ https:// faculty.washington.edu/jtenenbg/courses/360
+/f04/sessions/schneidermanGoldenRules.html
+2021 - 04 -
+06 13:14
+
+Nielsen Heuristics  - Nielseno euristikos
+ Jakob Nielsen, Rolf  Molich
+ Nielsen Norman group
+ 79 patentai, 11 knyg ų
+ Alertbox  www.useit.com
+ Iš  249 interfeisų defektų
+ 1990 metais apibendrino
+ 9 euristikas
+ 1999 apibendrino 
+patobulinimus
+ 10 euristikų
+Web usability guru 
+2021 - 04 - 06 13:14 13
+
+10 Usability Heuristics for User Interface Design
+Patobulintos euristikos
+15
+1. Sistemos būsenos matomumas 1. Visibility of system status
+2. Sistemos atitikimas realiam  2. Match between system and 
+pasauliui the real world
+3. Naudotojo valdomas dialogas
+3. User control and freedom
+4. Darna ir standartai
+4. Consistency and standards
+5. Klaidų prevencija
+5. Error prevention
+6. Atpažinimas geriau nei 
+6. Recognition rather than recall atsiminimas
+7. Naudojimo lankstumas ir  7. Flexibility and efficiency of use
+efektyvumas
+8. Aesthetic and minimalist
+8. Estetiškas ir minimalistinis 
+design
+dizainas
+9. Help users recognize, 
+9. Remti klaidų atpažinimą, jų 
+diagnose, and recover from 
+priežasčių nustatymą ir 
+errors
+taisymą
+10. Help and documentation
+10. Parama ir dokumentacija
+2021 - 04 -
+06 13:14
+http://www.useit.com/papers/heuristic/heuristic_list.html
+
+16
+
+1.  Visibility of system status
+17
+Būsenos matomumas
+ Show system status, tell what’s 
+ Rodyti 
+happening
+ laiką : ilgesniai nei  1 sek. 
+ time: more than 1 second 
+operacijai laikymui rodyti 
+holding operation to display 
+proceso pažangos juostą
+the process progress  bar
+ erdvę :  kiek laisvos erdvės 
+ space :  how much free space  dar liko?
+is left ?
+ pokytį :  paklausti, ar reikia 
+ change : ask if you need to  išsaugoti, jei kažkas buvo 
+save if something  has been keista
+changed
+ veiksmą : pvz., šviesoforo 
+ actions : for example, light  signalai ne tik spalvoti, 
+tačiau svarbiausias  – signals are not only colorful, 
+raudonas  – yra viršuje but more importantly  red  at 
+the  top
+ tolimesnius žingsnius : gali 
+būti aprašyti tekstu  Further  steps:  can be 
+described in the  text
+ pabaigą : pvz., kažkas yra 
+atlikta, nusiųsta ir pan.
+ at  the end:  for example, 
+something is done, sent, etc.
+
+1.  Visibility of system status
+18 Būsenos matomumas
+ The system should always keep users informed about what is going 
+on, through appropriate feedback within reasonable time .
+ Sistema turi nuolat informuoti kas vyksta, pateikdama tinkamą atsaką priimtinu 
+laiku
+Metas  Ką jis 
+atsigerti  
+veikia
+kavos ...
+?
+>  Veikiu
+2021 - 04 -
+06 13:14
+
+1.  Visibility of system status : modes
+Būsenos matomumas: režimai
+19
+OK: all the necessary information in one  place
+G erai :  visa reikalinga informacija vienoje vietoje
+2021 - 04 -
+06 13:14
+
+1.  Visibility :  invisible functionality
+Matomumas: nematomas funkcionalumas
+Papildomai 
+inlormacijai 
+spragtelėti 
+Dvigubas 
+spragtelėjimas: 
+redagavimo režimas
+2021 - 04 -
+06 13:14
+20
+
+1.  Visibility of system status
+21
+Matomumas
+ Consistently inform 
+ Nuosekliai 
+the user  about informuokite 
+naudotoją apie 
+ what's  going  on
+ tai, kas vyksta
+ how  the user input 
+ kaip yra 
+is interpreted
+interpretuojama 
+naudotojo įvestis
+What is the 
+mode at the 
+moment?
+What I How does the 
+chose ? system 
+interpret my  2021 - 04 -
+06 13:14
+actions?
+
+1. Visibility of system status
+22
+Matomumas
+ Windows Live Account
+Password strength is 
+shown as the 
+password is entered
+ A feedback message 
+is displayed when an 
+action is performed
+Veiksmo patvirtinimas 
+( Tick )
+http://designingwebinterfaces.com/6 - tips - for - a - great - flex -
+ux - part - 5 2021 - 04 -
+06 13:14
+
+1.  Visibility of system status :  feedback
+23 Būsenos matomumas: atsakas
+ more accurate
+Kuo konkretesnis
+• Kuo 
+arčiau 
+veiksmo
+2021 - 04 -
+06 13:14
+
+1.  Visibility of system status :  feedback
+Būsenos matomumas: atsakas 24
+Although many files 
+are copied, the 
+answer is  for every 
+one
+Drawing Board LT
+2021 - 04 -
+06 13:14
+
+1.  Visibility of system status :  feedback
+25
+Būsenos matomumas: atsakas
+Atsako laikas  Response  time
+ Kaip naudotojai suvokia   How  users perceive delays
+užlaikymus <0.1s  - " instant"
+1s  - user's  thoughts  persist , 
+< 0.1s   - “ momentinis ”
+but  hold - up is fixed
+1s   - n audotojo mintys 
+10s  - Limit  the User's Attention  nenutrūksta, tačiau 
+to  the Current  Dialogue užlaikymas yra 
+f iksuojamas >  10s  - User  Switches to Other 
+Pending  Tasks
+10s   - Naudotojo dėmesio 
+išlaikymo ties einamuoju 
+dialogu riba
+>  10s   - naudotojas 
+persijungia į kitas 
+laukiančias  užduotis
+2021 - 04 -
+06 13:14
+
+1.  Visibility of system status :  feedback
+Būsenos matomumas: atsakas
+• Cursor • Žymeklis
+– Trumpoms  • For  short  operations
+operacijoms
+• Percentage
+• Procentai
+• Remaining time
+– Likęs laikas
+• Estimated time
+– Numatomas laikas
+• Casual ,  section • Atsitiktinis, atkarpa
+– Nenumatytiems  • Unforeseen  cases
+atvejams
+Contacting host (10 - 60 seconds)
+cancel
+2021 - 04 - 06 13:14 26
+
+2. Match between system and the real 
+world
+27
+Sistemos atitikimas realiam pasauliui
+ Use familiar metaphors & language
+ Identify  user - understandable  terms
+ Provide  an interface in a user - friendly  language
+ Make  selections  clear
+ Explain  each choice in a way that makes 
+it  easy for the user to decide
+ Naudotojui suprantama kalba ir metaforos
+ Identifikuoti naudotojui suprantamus terminus 
+ Pateikti interfeisą naudotojui suprantama 
+kalba
+ Suprantamai pateikti pasirinkimus
+ Kiekvieną pasirinkimą paaiškinti taip, kad 
+naudotojui būtų paprasta apsispręsti
+2021 - 04 -
+06 13:14
+
+2.  Match between system and the real world
+Sistemos atitikimas realiam pasauliui (metaforos)
+• Simple and natural  dialogue • Paprastas ir natūralus 
+dialogas • Simple
+– Paprastas • since  only the necessary 
+and frequently used 
+• nes pateikiama tik reikalinga 
+information is  provided ir dažnai naudojama 
+informacija
+• less  is  better
+• mažiau yra geriau
+• Natural :  Meet  the user's 
+– Natūralus: atitinka  habits
+naudotojo įpročius
+• regular  image, order of 
+• įprastas vaizdas, veiksmų 
+action, grouping of 
+eilės tvarka, informacijos 
+information, terminology
+grupavimas, terminija
+2021 - 04 - 06 13:14 28
+
+3.  User control and freedom
+29
+Naudotojo valdomas dialogas
+ Turi būti galimybė   It must be possible to undo 
+atšaukti ir kartoti 
+and repeat  actions
+veiksmus
+ Do not bind the user to 
+ Nepririšti naudotojo prie 
+one  use vieno naudojimo  b ūdo
+ Allow to cancel at any time,   Leisti bet kada atšaukti, 
+grįžti, atšaukti grįžimą,  return, cancel return, 
+išeiti (cancel,  undo , 
+exit ( cancel ,  undo ,  redo ,  exit )
+redo, exit)
+ Show route taken (menu, 
+ Rodyti nukeliautą kelią 
+navigation )
+(meniu, navigacijoje)
+ Allow a choice of possible   Leisti rinktis duotu 
+momentu galimus  actions at a given moment
+veiksmus
+2021 - 04 -
+06 13:26
+
+3.  User control and freedom
+30
+Naudotojo valdomas dialogas
+• Users choose  functions
+- clearly  visible  exits
+Core
+Dump
+• Naudotojai pasirenka funkcijas
+– aiškiai matomi išėjimai
+How to 
+get out 
+of here ?
+Kaip  iš 
+čia 
+išeiti ?
+2021 - 04 -
+06 13:14
+
+3.  User control and freedom
+Naudotojo valdomas dialogas:  31
+aiškūs išėjimai
+ Strategies for desktop applications :
+Strategijos darbastalio programose :
+ Mygtukas „Atšaukti“ ( Cancel button )
+ Universalus „Anuliuoti“ ( Undo )
+ Baigti ( Quit )
+ Standartinės reikšmės ( Defaults )
+ Supports undo and redo and a 
+clear way to navigate.
+2021 - 04 -
+06 13:14
+
+3.  User control and freedom
+Naudotojo valdomas dialogas: navigacija
+32
+Wufoo CollabFinder
+Search is easy to open,  Clearly marks where the 
+enter info, execute or  person is and where they can 
+cancel. go by showing the selection in 
+each menu
+2021 - 04 -
+06 13:14
+
+3.  User control and freedom
+33
+Naudotojo valdomas dialogas
+Balsamiq 
+Pages 
+Cell editing shows row and 
+Undo and Redo buttons are  column ids, and the cells used 
+available in the toolbar, and  in the equation. The equation 
+can also be accessed with  can be saved or canceled
+the standard keyboard 
+shortcuts
+http://designingwebinterfaces.com/6 - tips - for - a - great -
+2021 - 04 -
+06 13:14 flex - ux - part - 5
+
+4.  Consistency and standards
+34 Darna ir standartai
+ Consistency is ensuring consistent 
+ Darnus lango elementų išdėstymas
+behaviors and consistent use of colors, 
+ Vengti kompiuterinio žargono 
+names, layout and so on.
+interfeise
+ Avoid  Computer Jargon  in Interface  Leisti naudotojams siūlyti elementų 
+pavadinimus
+ Sustainable choices
+ Darnūs pasirinkimai
+ " Yes"  - only for positive action:   „taip“  – tik teigiamiems veiksmams: 
+tęsti, išsaugoti continue,  save
+ Pvz.: tikslas: tęsti darbą, galimi 
+ For  example: goal: to continue  klausimai:   
+work, possible questions :  Ar norite baigti? (Veiksmui „tęsti“ reikia 
+pasirinkti NE)
+ Do  you want to finish? (You need to 
+ Ar norite tęsti?  (Veiksmui „tęsti“ reikia 
+select  NO  for the "continue" action ) pasirinkti  TAIP)
+ Do  you want to continue? (YES to   Aiškūs pasirinkimai
+choose "continue ")
+ Kai kada TAIP ir NE nėra aiškūs, 
+tada geresni detaliau apibūdinti 
+ Clear choices
+pasirinkimai
+ Sometimes  YES and NO are not 
+clear, then better options are 
+2021 - 04 -
+described in more detail 06 13:14
+
+4.  Consistency and standards
+Darna ir standartai
+ Effective mnemonics, abbreviations and 
+icons
+ Ctrl  + S  Accelerators
+ Alt  FS mnemonics for action from the  menu
+toolbar icon
+ Prasminga mnemonika, santrumpos ir 
+piktogramos
+ Ctrl + S    santrumpa
+ Alt FS   mnemonika veiksmui iš meniu
+priemonių juostos piktograma
+Omnitel : prisijungimas prie 
+Interneto 
+2021 - 04 - 06 13:14 35
+[žiūrėta 2007 03 15]
+
+4.  Consistency and standards
+36 Darna ir standartai
+ Consistency Input Syntax
+ Darni įvesties sintaksė
+ Consistency language and 
+ Darni kalba ir grafika graphics
+ Tokia pati išvaizda visoje 
+ The  same looks throughout the 
+sistemoje
+system
+ Vienodi objektai ir veiksmai 
+ Equal  objects and actions are  vienodai vaizduojami
+equally  depicted
+ Informacija ir veiksmai visada 
+toje pačioje lango vietoje
+ Information  and actions are always 
+in the same place of the window
+Cancel Ok Cancel Ok Ok Accept Dismiss
+ Darnus veikimas
+Cancel
+ ekvivalenčiose situacijose 
+komandos ir veiksmai yra 
+ Standart ways of working panašūs
+ In equivalents situations teams  and 
+actions are similar
+2021 - 04 -
+06 13:14
+
+4.  Consistency and standards
+Darna ir standartai 37
+2021 - 04 -
+06 13:14
+
+5.  Error prevention
+38 Klaidų prevencija
+Help users avoid making mistakes
+ Protect the user  to loss   Apsaugoti naudotoją nuo 
+the data duomenų praradimo
+ For example:  Ask if you   Pvz. klausti, ar tikrai norima 
+perrašyti failą really want to overwrite 
+the  file
+ Vengti ekrano 
+ Avoid  screen  clutter užgriozdinimo
+ Protect the user to make   Apsaugoti naudotoją nuo 
+input  mistakes klaidingo įvedimo
+ Avoid  excessive   Vengti perdėtų apribojimų
+restrictions
+2021 - 04 -
+06 13:14
+
+5.  Error prevention
+39
+Klaidų prevencija
+ Even better than good error messages is a careful 
+design, which prevents a problem from occurring in the 
+first place .
+ Už geriausius klaidų pranešimus naudingesnis yra  tinkamas 
+projektavimas , leidžiantis naudotojui vengti klaidų
+
+5.  False Error Messages
+40
+Klaidinatys klaidų pranešimai
+
+5.  Error prevention
+Klaidų prevencija
+41
+ Goal Loss
+ Tikslo pametimas  Forgotten what you are 
+looking for
+ Pamirštama, ko 
+ complicated menu  ieškota
+hierarchy
+ sudėtingose meniu 
+ long dialogues hierarchije
+ Minimize  ilguose dialoguose
+ If the system knows the   Minimizuojame
+purpose, submit it in an express 
+ Jei sistema žino tikslą, 
+way
+pateikti jį išreikštiniu 
+ If not, show the  user’s way būdu
+ Jei ne, rodyti 
+naudotojui nueitą 
+kelią
+
+5.  Error prevention
+42
+Klaidų prevencija
+ Mode  mistakes
+ Režimų sukelti 
+ What  is the mode ? apsirikimai
+ The  same action 
+ Kas yra režimas?
+has different effects 
+ tas pats veiksmas turi 
+in different 
+įvairius efektus įvairiose 
+situations
+situacijose
+ Minimized
+ Minimizuojama
+ Have  as  less modes 
+ Turėti kuo mažiau režimų
+as  possible
+ Aiškiai išskirti
+ Clearly  distinguished
+ Examples
+ Adobe reader:         ir
+ C aps lock 
+
+6.  Recognition rather than recall 
+(MEMORY)
+43
+Atpažinimas geriau nei atsiminimas
+Make information easy to discover
+ Vengti kodų
+ Minimize  the user’s 
+memory load.   Vengti papildomų 
+kliūčių
+ Make  objects, 
+actions, and options   Rekomenduoti 
+standartinius  visible .
+pasirinkimus
+ The  user should not 
+ Leisti iš anksto  have to remember 
+peržiūrėti (angl.  information from one 
+P review ) būsimų  part of the dialogue 
+veiksmų rezultatus  to another. 
+padedant apsispręsti
+ Instructions  for use of 
+the system should be 
+visible or easily 
+retrievable whenever 
+appropriate. 
+
+6.  Recognition rather than recall 
+(MEMORY) 44
+Atpažinimas geriau nei atsiminimas
+ Make objects, actions, and options visible.
+ Previews  the fonts you can pick from, instead 
+of just the font name
+
+7.  Flexibility and efficiency of use
+45 Naudojimo lankstumas ir našumas
+Make advanced tasks fluid and efficient
+ The system must meet   Sistema turi tenkinti 
+both experienced and  tiek patyrusius, tiek 
+beginner users
+naujokus naudotojus
+ Standard choices
+ Standartiniai 
+pasirinkimai  At once Mark 
+recommended 
+ Iš karto pažymėti 
+rekomenduojamus  choices
+pasirinkimus
+ Show  the last 
+ Rodyti paskutinę 
+entered value
+įvestą reikšmę
+
+7.  Flexibility and efficiency of use
+Naudojimo lankstumas ir našumas
+46
+• Abbreviated strategies : • Santrumpų strategijos:
+– Klavišų santrumpos • Keys  abbreviations
+• klavišų kombinacijos
+• key combinations 
+• Komandos baigimas, kai jau  ( Accelerators )
+aišku, kuri yra renkama
+• Function keys ( mnemonics )
+• Funkciniai klavišai
+• Mouse abbreviations
+– Pelės santrumpos
+• Contextual menus
+• Kontekstiniai meniu
+• Double  click or select from  menu • Dvigubas spragtelėjimas ar 
+pasirikimas iš meniu
+• Navigation jumps
+– Navigacijos šuoliai 
+• For  example going to the 
+• Pvz. nuėjimas prie reikalingo 
+required window immediately, 
+lango iš karto, be tarpinių 
+without intermediate  windows
+langų
+• System  retrospective (history ) – Sistemos retrospektyva 
+(history)  • WWW : ~ 60%  of  web pages are 
+• WWW: ~60% tinklalapių yra  re - viewed
+pakartotinai žiūrimi
+• This rule is even more relevant in 
+• komandinėje eillutėje ši taisyklė dar 
+the  Taskbar or taskpan el aktualesnė
+
+7. Pateikite santrumpas
+47
+ Which menu is active CTRL + P  and  CTRL + R?
+ Kuriuos meniu aktyvous CTRL+P rr CTRL+R?
+
+8.  Aesthetic and minimalist design
+Estetika ir minimalizmas
+48
+Provide only necessary information in an elegant 
+way
+ Take note of the visible page 
+ Atsižvelgti į puslapio  part in windows
+klostę
+ Carefully design that part of the 
+window that is immediately   Dėmesingai projektuoti 
+visible to the user
+tą langą dalį, kurią iš 
+karto pamato   The most important information 
+naudotojas must be in the visible part of the 
+page in windows
+ Svarbiausia informacija 
+turi būti virš klosties  Pay attention while avoiding 
+noise
+ Atkreipti dėmesį, 
+vengiant triukšmo  Sounds, colors
+ Garsai, spalvos  Many and hardly 
+identifiable meanings  Daug ir sunkiai 
+identifikuojamos prasmės
+ Show frames in the table 
+ Rodyti rėmelius lentelėje,  where data is most 
+kurioje svarbiausi yra 
+important
+duomenys
+
+8.  Aesthetic and minimalist design
+49 Estetika ir minimalizmas
+• Minimalism
+• Minimalizmas
+• Present  the user only what he 
+– Pateikti naudotojui tik tą, kas 
+needs in the current  step
+jam reikalinga einamajame 
+žingsnyje • Eliminate  or hide information that 
+is rarely or totally  inaccessible
+– Panaikinti arba paslėpti retai 
+arba iš viso nenaudojamą  • for  example company details on 
+informaciją each  page
+• pvz. įmonės rekvizitai  • Because  she is distracting and 
+kiekviename puslapyje
+competing with the relevant 
+information – Nes ji blaško dėmesį ir varžosi 
+su aktualia informacija
+• Recommendations
+• Rekomendacijos
+• Reduce mode’s or properly 
+– Sumažinti režimus arba  represent them
+tinkamai juos pavaizduoti
+• Minimize the number of  windows
+– Taupiai naudoti langus
+• Additional  windows require 
+– Papildomi langai reikalauja 
+redundant navigation
+perteklinės navigacijos 
+
+8.  Aesthetic and minimalist design
+50
+Estetika ir minimalizmas
+Compuserve Information Manager
+File     Edit    Services    Mail    Special    Window     Help
+Services
+Telephone Access Numbers
+PHONES
+Access Numbers & Logon 
+Instructions
+United States and Canada
+United States and Canada
+CompuServe Network
+Only 9600 Baud
+List
+?  List
+List by:
+State/Province
+Area Code
+
+8.  Aesthetic and minimalist design
+51
+Estetinis ir minimalistinis 
+projektavimas
+
+9.  Help users recognize, diagnose, and 
+recover from errors 
+52
+Padėti naudotojams atpažinti, 
+diagnozuoti ir atstatyti klaidas
+ Suprantamai ir   Understandably and 
+trumpai paaiškinti  briefly explain the 
+klaidingos situacijos  essence of the mistaken 
+esmę situation
+ Siūlyti sprendimą  Suggest  a  solution
+ Rodyti tolimesnį kelią  Show  the next  path
+ Pvz. naudotojas nori   For  example the user 
+atverti failą, tačiau  wants to open the file, 
+kompiuteryje nėra  but the computer does 
+tinkamos programos not have the right 
+program  Pasiūlyti būdą surasti 
+tinkamą programą
+ Suggest  a way to find 
+the right  program  Siūlyti alternatyvas
+ Suggest  alternatives
+
+9.  Help users recognize, diagnose, 
+53 and recover from errors 
+• Klaidų pranešimai turi būti 
+• Error messages must be written in 
+rašomi natūralia kalba
+natural  language
+– Be kodų
+• No codes
+• nukreipiant į  • referring  to a specific 
+konkrečią žinyno vietą directory  place 
+– Tiksliai nusakyti problemą • Strictly  describe the  problem
+• Explain  how to restore the  – Paaiškinti, kaip atkurti 
+proper  way  of the system tinkamą sistemos eigą
+N e , n e ...  Spec.  Info Gal ribojama  Gavau pranešimą 
+Nesuprantu !!! reiškia “ Uždrausta 
+informacija? Spec Info .
+informacija ” Ką tai reiškia ?
+Hmm... b e t  ką  Tai reiškia, kad  šiuo  O ,  galiu eiti 
+metu negalite  tai reiškia ???
+pavalgyti! užsiregistruoti
+53
+
+9. Padėti naudotojams atpažinti, 
+54
+diagnozuoti ir atstatyti klaidas
+• Žmonės klysta! • People make mistakes !
+• Klaidos
+• Mistakes
+– Suklydimas
+• misunderstand 
+• Sąmoningas svarstymas, kurio 
+• Conscious Thinking, the result of  rezultatas yra klaidingas 
+which is a wrong decision  sprendimas
+• It happens  • Atsitinka - dėl netinkamo 
+due to inappropriate  pavaizdavimo
+presentation
+– Apsirikimas
+• To muff
+• Nesąmoninga elgsena einant 
+neteisinga linkme, siekiant tikslo
+• Unconscious  behavior is wrong 
+towards the  goal – Keliauti į parduotuvę, o 
+atvykti į darbą
+• Go  to the store to get to 
+work • Atsitinka
+• It happens due  to  inaccuracies – dėl neatidumo (
+paspaudus gretimą 
+• Click  the button next to  it
+mygtuką )
+• Repeat steps
+– Pasikartojančiuose 
+veiksmuose
+
+Thank you for the alert, but what can I do?
+D ė kui  už persp ė jim ą , ta č iau k ą man daryti?
+What happens if I cancel a canceled 
+operation?
+Kas  atsitiks jei atšauksiu atšaukiam ą
+iooperacij ą ?
+What else can I choose?
+O  k ą dar gal ėč iau pasirinkti ?
+I miss ...
+Pasiduodu  ...
+
+Klaidos pranešimas Bitės 
+56
+svetainėje (žiūrėta 2007 02 02)
+YYYY MM DD
+
+Error s   - Klaidos 57
+
+10.  Help and documentation
+Pagalba ir dokumentacija
+59
+Use proactive and in - place hints to guide 
+users
+ Mokymasis iš pavyzdžių  Learning from  examples
+ Pasirinkimai su   Choices  with  examples
+pavyzdžiais
+ Wizards
+ Vedliai
+ Show Steps
+ Rodyti žingsnius
+ Explain  window 
+ Aiškinti lango elementus 
+elements (hints ) (užuominos)
+ Give  more  information  Suteikti daugiau 
+informacijos
+ Explain Understandably , 
+ Aiškinti suprantamai,  avoiding excess
+vengiant pertekliaus
+
+10.  Help and documentation
+60 Pagalba ir dokumentacija
+ Help does not 
+ Pagalba 
+compensate for design 
+nekompensuoja 
+errors
+projektavimo klaidų
+ In  simple  systems
+ Paprastose sistemose
+ Teaches  the use of the 
+system  Mokina sistemos 
+naudojimas
+ More complicated
+ Sudėtingesnėse
+ many  functional  options
+Volume  37
+ daug funkcinių 
+User  but  simple things have to 
+galimybių guide
+be simple
+ bet  p aprasti dalykai turi   Learning scenarios  for 
+išlikti paprasti complicated  functionality
+ s udėtingoms funkcinėms 
+galimybėms  Documentation  is 
+important  apmokymo scenarijai
+ Dokumentacija svarbi
+ an  emergency  situation  avarinėje situacijoje
+ elektroninė patogesnė nei   electronic  is more 
+popierinė
+convenient than paper
+
+10. Help and documentation
+61 Pagalba ir dokumentacija
+ Use of the  documentation  Dokumentacijos 
+naudojimas
+ Briefly:
+ Trumpai:  find  out the syntax of 
+action,  options
+ sužinoti veiksmo sintaksę, 
+galimybes
+ shortcut  key list.
+ klavišų santrumpų sąrašą.
+ Teaching  and / or training   Vadovėliai ir/ar mokymo 
+programs programos
+ Trumpi aprašymai   Short  descriptions are usually 
+paprastai skaitomi, kai  read when the system is 
+sistema nupirkta.
+purchased .
+ Skatina žvalgymą ir 
+ Promotes  exploration and 
+pažinimą.
+cognition .
+ Apima koncepcinę 
+ Includes  conceptual material  medžiagą ir pagrindinę 
+and basic  syntax sintaksę
+ Direct  " sightseeing“  Tiesioginės „ekskursijos“
+ Demonstruoja   Demonstrates  basic principles
+pagrindinius principus
+
+10.  Help and documentation
+Pagalba ir dokumentacija
+ Žinynai
+(angl.  Reference 
+manual )
+ For experienced  users
+ Rarely  presents the basic 
+concepts
+ Usually  arranged  by 
+subject
+ Patyrusiems  naudotojams
+ Retai pateikia pagrindines 
+sąvokas
+ Paprastai sutvarkytos 
+dalykiškai
+62
+
+10.  Help and documentation
+Pagalba ir dokumentacija
+Hipertekstas Hypertext
+• Paieška – Search
+• Turinys – Content
+• Dalykinė  – The  sub ject 
+rodyklė index
+• Kryžminė  – Cross  arrow
+rodyklė
+63
+
+10.  Help and documentation
+Pagalba ir dokumentacija
+ Hints
+ Užuominos
+ Trumpi paaiškinimai   Brief explanations
+ naudoja patyrę 
+ Experienced 
+naudotojai įsitikinti, 
+users use to  kad gerai atsimena
+make sure they   Naujokai žvalgo 
+sistemos galimybes remember  well
+ Klavišų kombinacijos
+ The beginner 
+ Kontekstinis meniu looks  at the 
+capabilities of 
+the  system
+ Key combinations
+ Contextual  menu
+64
+
+10.  Help and documentation
+Pagalba ir dokumentacija
+ Wizards  Vedliai
+ Veda naudotoją per   Brings  the user 
+sudėtingesnes užduotis
+through more 
+ Pavojingi, jei trikdo 
+complex  tasks
+naudotoją
+ Dangerous , if it 
+disturb  the user
+Koks gi mano 
+kompiuterio 
+vardas ? 
+Fred is ? 
+Intel as ? 
+KOMPAS ?
+65
+
+10.  Help and documentation
+66 Pagalba ir dokumentacija
+ Advices
+ Patarimai
+ Ability  to learn system   Galimybė išmokti 
+sistemos funkcines  functionality
+galimybes
+ Contextual advices  on 
+ Kontekstiniai 
+how to make better 
+patarimai, kaip 
+use of the  system
+našiau naudoti 
+sistemą
+ Have  to be smart, 
+ Turi būti sumanūs,  otherwise it's bothering 
+kitaip vargina ir  and annoying
+erzina
+
+67
+
+68
+Organization of Heuristic 
+evaluation
+Euristinio  tikrinimo 
+organizavimas
+
+Organization of Heuristic evaluation
+69
+Euristinio tikrinimo organizavimas
+• Purpose
+• a  methodical check that the interface 
+meets the design guidelines and principles
+• Tikslas
+– metodiškas patikrinimas, ar interfeisas atitinka 
+projektavimo rekomendacijas ir principus
+
+Organization of Heuristic evaluation
+70
+Euristinio tikrinimo organizavimas
+• Methodology :
+• Metodika:
+• 3  to 5 evaluators: 
+ 3  – 5 vertintojai: 
+usability  experts
+panaudojamumo ekspertai
+• Individually  checked: 
+ Tikrinama individualiai: 
+usually up to 1.5  hours
+p aprastai iki 1,5 val.
+• After  an individual   Po individualaus tikrinimo 
+inspection, the group  grupėje aptariami 
+discusses the  results rezultatai
+ Vienas vertintojas paprastai  • One  evaluator usually 
+aptinka 35% klaidų
+detects 35% of the 
+ 5 vertintojai  – apie 75%  errors
+klaidų
+• 5  evaluators  - about 
+ Taikoma popieriniams  75% of the  errors
+eskizams, prototipams ir 
+• Applies  to paper 
+veikiančioms sistemoms .
+sketches, prototypes and 
+operating systems.
+
+Organization of Heuristic evaluation
+71
+Euristinio tikrinimo organizavimas
+First stage
+Pirmas etapas
+ instruction :
+ instruktažas: 
+ evaluators  are introduced to the   vertintojai supažindinami su 
+tasks užduotimis
+ susipažįsta su sistema  get  acquainted with the  system
+Antras etapas
+The second stage
+ Tikrintojas vykdo numatytas 
+ The evaluator  performs  the 
+užduotis
+intended  tasks  - Easy  system  -
+ Nesudėtingai sistemai  - iki 2 val.
+up to 2  hours
+ Jei tikrintojas nėra dalykinės 
+ If  the evaluator is not an expert in 
+srities ekspertas
+the  field
+ jam paruošiame vykdymo 
+ preparing execution scenarios  to  scenarijai 
+him  vertinimo metu dalykinės srities 
+ekspertai ar projektuotojai yra   During  the assessment, experts or 
+šalia 
+designers in the field are  nearby
+Trečias etapas
+The third stage
+ tikrinimo rezultatų aptarimas, 
+ discussion  of  inspection results, 
+apibendrinimas ir ataskaitos 
+summary and report preparation
+parengimas
+
+Organization of Heuristic evaluation
+72
+Euristinio tikrinimo ataskaitos struktūra
+– E xecutive summary
+– Santrauka (angl. 
+executive summary ) • how was the check 
+done
+• kaip buvo atliekamas 
+tikrinimas
+• main conclusions
+• pagrindinės išvados
+• noticed defects
+• pastebėti defektai
+– Assessment  environment
+– Vertinimo aplinka
+– Positive  aspects
+– Teigiami  aspektai
+– Analysis  of the main 
+– Pagrindinių problemų  problems
+analizė
+– A  list of deficiencies 
+– Aptiktų trūkumų sąrašas found
+– Šaltiniai – Sources
+
+Heuristic Evaluation Report
+73
+Euristinio tikrinimo ataskaita
+ Assessment  environment   - Vertinimo aplinka
+Vertintojas A B Evaluator
+Am žius 24 28 Age
+Lytis Vyras Vyras Sex
+Browser Naršykl ė Netscape 6.0 IE5.5
+OS OS Linux xxx Windows NT
+Connection Ryšys Telekabelis 33.6k
+(300k)
+Vaizduoklio 24 bitai 24 bitai
+spalvos
+Skiriamoji geba 1152*864 1152*864
+( angl.   resol u tion ) Resolution
+Vaizduoklio d y - 19“ 17“
+Screen  dimensions dis
+Date  of assessment Vertinimo data 2001 03 24 2001 03 24
+Validation time Vertinimo la i kas 09:00-10:00 15:15-16:30
+
+Heuristic Evaluation Report
+Euristinio tikrinimo ataskaita 74
+• coded evaluators
+• koduojami vertintojai
+Kodas Vertintojas
+H Henrikas DDD
+C K ęstutis GGG
+T Tomas KKK
+S Stepas SSSS
+Y Rado šis vertintojas
+
+Heuristic Evaluation Report
+75
+Euristinio tikrinimo ataskaita
+Positive  aspects • Teigiami aspektai
+– aprašoma, kas yra  • Describes what is well 
+gerai vertinama. 
+appreciated.
+– kiekvienas teiginys 
+• every statement
+• paremtas ekrano 
+vaizdo fragmentu  • based on a snapshot of 
+su pažymėta 
+the screen image with a 
+teigiama savybe
+marked positive feature
+The screenshot should not be  larger than 600  pixels
+The fragments under consideration can be  noted
+
+Heuristic Evaluation Report
+76
+Euristinio tikrinimo ataskaita
+ Esminės problemos
+Major  problems
+ kiekvienam defektui yra skiriama 
+viena pastraipa.  for  each defect one 
+ kiekvieną defektą turi iliustruoti 
+paragraph is 
+interfeiso vaizdo fragmentas
+allocated .
+ Vaizduose žymimos konkrečios 
+vietos
+ Each  defect must be 
+illustrated with a 
+screenshot image  of 
+the  interface
+ Images  show specific 
+places
+
+Heuristic Evaluation Report
+77
+Euristinio tikrinimo ataskaita
+• Rasti defektai
+Find  defects
+– nurodomi VISI 
+• describes  ALL 
+pastebėti defektai
+DEFECTS found
+ Kur?
+Where ?
+ defektai 
+ defects  in specific  konkrečiose 
+graphic interface  grafinio  interfeiso
+locations vietose
+ 2  or more places 
+ 2 ar daugiau 
+that are 
+vietų, kurios yra 
+comparable
+lyginamos
+ general  structure
+ bendra struktūra
+ kažko trūksta
+ something's  missing
+
+78 Defects  - Defektai
+ Įvertinami pagal
+ Estimated  by
+ dažnį
+ the frequency
+ poveikį
+ Effects  vienkartinis ar 
+pasikartojantis
+ one - time  or  repetitive
+ Įverčiai  – po vertinimo
+ Estimates  - after 
+ Kiekvienas įvertina 
+atskirai  evaluation
+ Everyone  evaluates 
+separately
+
+Heuristic Evaluation Report
+79
+Euristinio tikrinimo ataskaita
+ Defektų skyriuje Defective section
+ koduojami defektų 
+ encoded defects
+sunkumai
+Difficulty Value  - Reik šmė
+Sunkumas
+4 The system is a disastrous disadvantage
+Sistemai pra žūtingas trūkumas
+3 Serious deficiency - Rimtas trūkumas
+2 Small deficiency - Smulkus trūkumas
+1 Cosmetic Deficiency - Kosmetinis trūkumas
+0 No problem   - Nėra problemos
+Avrg .  - Vid Average estimates - Įverčių vidurkis
+
+Heuristic Evaluation Report
+80
+Euristinio tikrinimo ataskaita
+ Defektų skyriuje Defective  section
+ Rastų defektų sąrašas  List  of defects found
+Rado Sunkumas
+Nr. Aprašas Lokalizacija
+K C T S K C T S Vid.
+1 Defekto aprašas   + +   4 4 4 4 4.0 Kurioje vietoje rastas defektas
+
+Heuristic Evaluation Report
+81 Euristinio tikrinimo apibendrinimas
+Privalumai Advantages :
+– Pigus  Cheap
+ no special facilities and equipment ;  nereikia specialių patalpų ir
+įrangos ;
+ it can be used at early design
+stages .
+ jis gali būti naudojamas
+ankstyvuose projektavimo  at all stages of the design
+etapuose .
+Disadvantages :
+– visuose projektavimo etapuose
+ expensive to look for and hire
+Trūkumai :
+experts
+– brangu ieškoti ir samdyti ekspertų
+ best experts with knowledge in the
+• geriausi ekspertai - turintys dalykinės
+field ; srities žinių ;
+ highlights problems, not solutions ; – akcentuoja problemas, o ne
+sprendimus ;
+ important defects may be missed ;
+– svarbūs defektai gali būti praleisti,
+ identifies a number of trivial defects,
+– identifikuojama daugybė trivialių
+defektų,  the tendency to improve the current
+decision than to consider alternative – tendencija gerinti esamą
+sprendimą nei nagrinėti solutions
+alternatyvius sprendimus
+
+Heuristic Evaluation Report
+82
+Euristinio tikrinimo apibendrinimas
+ Two experts can   Du ekspertai gali 
+formulate different  formuluoti skirtingas 
+conclusions išvadas
+ More  objective   Objektyvesni 
+checks (75% of  tikrinimai (75% 
+deficiencies) are  trūkumų) gaunami
+obtained
+ Kai vertina mažiausiai 
+penki ekspertai 
+ When  evaluated by 
+vertintojai
+at least five  expert
+
+Sources
+88
+ David Benyon . 
+Designing interactive Systems : a  comprehensive guide to HCI , 
+UX  and interaction design , 3/E. Centre  for Interaction Design, 
+Edinburgh Napier University.  2014
+ Kristina  Moroz - Lapin . Žmogaus  ir kompiuterio sąveika. Vilnius: 
+TEV, 2008.
