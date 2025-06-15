@@ -1,4 +1,3 @@
----
 
 ### **Graphical User Interface (GUI) Design Principles**  
 **Lecture 10 - Human-Computer Interaction Design**  
